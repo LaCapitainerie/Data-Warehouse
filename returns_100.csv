@@ -1,0 +1,101 @@
+return_id,order_id,product_id,return_ts,reason,amount
+1,2468,201,2023-03-30,Customer changed mind,78.89
+2,5868,881,2023-06-11,Wrong item,406.09
+3,7229,174,2024-03-02,Defective product,328.8
+4,4280,831,2023-10-30,Customer changed mind,269.06
+5,3940,154,2023-06-07,Not as described,206.24
+6,4032,571,2023-09-26,Customer changed mind,363.02
+7,9730,216,2023-12-04,Not as described,228.04
+8,6999,172,2023-12-29,Damaged during transport,177.43
+9,6367,625,2023-06-05,Not as described,60.98
+10,338,971,2023-12-29,Defective product,72.02
+11,5997,660,2023-07-25,Damaged during transport,296.0
+12,4770,521,2023-05-18,Defective product,287.84
+13,3175,348,2023-11-26,Not as described,125.87
+14,8236,10,2023-04-29,Defective product,374.98
+15,5795,797,2023-10-04,Damaged during transport,187.33
+16,7849,341,2023-01-08,Damaged during transport,250.81
+17,9906,124,2023-03-22,Customer changed mind,41.31
+18,2988,760,2023-02-13,Wrong item,80.65
+19,127,921,2024-01-16,Wrong item,38.75
+20,3402,316,2023-11-27,Not as described,188.36
+21,8508,877,2023-03-05,Wrong item,147.69
+22,609,762,2023-08-30,Defective product,341.95
+23,6245,694,2023-07-27,Damaged during transport,463.97
+24,4931,713,2023-04-10,Damaged during transport,162.97
+25,533,691,2024-02-18,Defective product,121.08
+26,1205,984,2023-04-05,Wrong item,119.85
+27,7484,436,2023-10-01,Damaged during transport,26.4
+28,2918,413,2023-12-16,Defective product,70.38
+29,7758,321,2023-06-11,Wrong item,495.58
+30,3959,494,2024-02-15,Not as described,240.87
+31,5909,827,2023-08-29,Defective product,433.66
+32,6655,981,2024-01-24,Customer changed mind,75.25
+33,8576,86,2023-10-30,Customer changed mind,352.34
+34,8372,348,2023-10-25,Damaged during transport,317.14
+35,9165,402,2023-03-07,Damaged during transport,487.0
+36,9086,546,2023-01-10,Damaged during transport,15.42
+37,5716,526,2023-02-25,Customer changed mind,202.14
+38,8123,673,2023-03-12,Customer changed mind,380.35
+39,4592,759,2023-10-23,Damaged during transport,354.24
+40,4752,961,2023-12-01,Damaged during transport,436.4
+41,2486,26,2023-10-03,Not as described,270.65
+42,7151,521,2024-02-25,Not as described,345.38
+43,3066,295,2023-07-08,Damaged during transport,454.79
+44,7784,540,2024-02-07,Not as described,46.57
+45,9164,79,2023-09-16,Damaged during transport,350.94
+46,4307,382,2023-08-04,Wrong item,33.05
+47,6043,338,2024-01-04,Not as described,73.86
+48,5233,904,2023-04-28,Not as described,133.68
+49,332,90,2023-08-06,Not as described,336.7
+50,1793,291,2023-11-27,Wrong item,117.82
+51,1709,473,2023-04-29,Not as described,115.81
+52,7369,197,2024-02-12,Damaged during transport,337.11
+53,1889,169,2023-04-23,Customer changed mind,274.68
+54,1715,216,2024-01-05,Not as described,410.79
+55,8564,499,2024-03-24,Defective product,125.42
+56,8921,376,2023-10-26,Wrong item,413.6
+57,1945,546,2023-04-19,Wrong item,154.02
+58,576,843,2023-08-28,Damaged during transport,257.1
+59,4707,927,2023-12-24,Defective product,197.65
+60,892,770,2023-01-31,Damaged during transport,334.18
+61,2697,701,2023-12-25,Defective product,25.04
+62,1171,966,2023-03-30,Defective product,379.84
+63,8521,514,2023-03-15,Not as described,28.51
+64,3180,197,2024-01-16,Damaged during transport,175.89
+65,6838,766,2024-01-07,Wrong item,449.28
+66,4727,426,2023-01-05,Wrong item,132.2
+67,1867,87,2023-10-19,Customer changed mind,199.59
+68,9504,47,2023-06-30,Damaged during transport,207.23
+69,2892,893,2023-09-27,Customer changed mind,44.84
+70,7765,688,2023-06-29,Wrong item,28.73
+71,210,390,2024-02-01,Wrong item,65.22
+72,8594,354,2023-04-13,Not as described,322.19
+73,7793,822,2023-07-03,Customer changed mind,67.71
+74,7453,79,2023-08-07,Not as described,16.58
+75,5074,509,2023-12-13,Customer changed mind,45.39
+76,6092,758,2023-01-07,Customer changed mind,121.99
+77,9619,628,2024-02-22,Wrong item,294.55
+78,4614,231,2023-01-28,Customer changed mind,109.26
+79,925,572,2023-04-15,Customer changed mind,218.18
+80,1189,327,2023-09-12,Damaged during transport,488.32
+81,3437,381,2023-07-05,Not as described,25.18
+82,6757,716,2023-11-22,Customer changed mind,462.97
+83,3969,263,2023-01-28,Customer changed mind,497.79
+84,2357,632,2023-11-29,Damaged during transport,421.32
+85,6390,977,2023-12-27,Damaged during transport,394.08
+86,3859,672,2023-01-16,Customer changed mind,189.89
+87,5377,974,2023-03-04,Damaged during transport,464.2
+88,2843,399,2023-07-11,Wrong item,150.7
+89,5171,134,2023-12-20,Damaged during transport,343.38
+90,4080,910,2024-02-13,Wrong item,31.02
+91,4656,383,2024-02-20,Wrong item,39.16
+92,5824,505,2023-09-27,Customer changed mind,102.77
+93,1374,560,2023-08-07,Customer changed mind,231.4
+94,1613,958,2023-05-15,Customer changed mind,275.25
+95,4639,264,2023-06-02,Defective product,298.52
+96,2476,844,2023-06-30,Damaged during transport,412.27
+97,9100,609,2023-11-18,Wrong item,336.27
+98,3723,885,2024-01-13,Wrong item,292.34
+99,731,10,2023-09-29,Customer changed mind,129.99
+100,999999,-10,2099-99-99,,-250.0

@@ -1,0 +1,8002 @@
+[
+  {
+    "product_id": 1,
+    "name": "Book: HE650 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Hachette",
+    "list_price": 53.7
+  },
+  {
+    "product_id": 2,
+    "name": "Album: TA128",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Sony Music",
+    "list_price": 20.27
+  },
+  {
+    "product_id": 3,
+    "name": "4K UHD: IO240",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Universal",
+    "list_price": 12.77
+  },
+  {
+    "product_id": 4,
+    "name": "Nikon Camera GY821 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Nikon",
+    "list_price": 3404.49
+  },
+  {
+    "product_id": 5,
+    "name": "Philips Kitchen Tool VM309",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Philips",
+    "list_price": 636.92
+  },
+  {
+    "product_id": 6,
+    "name": "Vinyl: RU435",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Universal",
+    "list_price": 7.0
+  },
+  {
+    "product_id": 7,
+    "name": "Notebook RH110 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 11.54
+  },
+  {
+    "product_id": 8,
+    "name": "Fujifilm SD Card Pro",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 238.25
+  },
+  {
+    "product_id": 9,
+    "name": "Sennheiser Turntable MR538",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sennheiser",
+    "list_price": 1325.04
+  },
+  {
+    "product_id": 10,
+    "name": "Blu-ray: NX224",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 69.88
+  },
+  {
+    "product_id": 11,
+    "name": "Game TX415 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Nintendo",
+    "list_price": 642.03
+  },
+  {
+    "product_id": 12,
+    "name": "Samsung TV Box DF117",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Samsung",
+    "list_price": 1904.61
+  },
+  {
+    "product_id": 13,
+    "name": "JBL Speaker GD412 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 321.14
+  },
+  {
+    "product_id": 14,
+    "name": "Vinyl: SJ805",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Sony Music",
+    "list_price": 34.43
+  },
+  {
+    "product_id": 15,
+    "name": "Bosch Kitchen Tool WJ760",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Bosch",
+    "list_price": 882.19
+  },
+  {
+    "product_id": 16,
+    "name": "Sony Tripod MC209",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 2664.71
+  },
+  {
+    "product_id": 17,
+    "name": "School Supply CM389",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 16.04
+  },
+  {
+    "product_id": 18,
+    "name": "Yamaha Speaker RW216 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Yamaha",
+    "list_price": 1473.24
+  },
+  {
+    "product_id": 19,
+    "name": "Pen Oxford DU250",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Oxford",
+    "list_price": 14.3
+  },
+  {
+    "product_id": 20,
+    "name": "School Supply LO747",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Bic",
+    "list_price": 37.87
+  },
+  {
+    "product_id": 21,
+    "name": "Sony Gift Card 25€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Sony",
+    "list_price": 452.73
+  },
+  {
+    "product_id": 22,
+    "name": "LG Projector HR631 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "LG",
+    "list_price": 1054.66
+  },
+  {
+    "product_id": 23,
+    "name": "Tefal Cleaning XM654",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 688.54
+  },
+  {
+    "product_id": 24,
+    "name": "Yamaha Amplifier KA969",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Yamaha",
+    "list_price": 643.39
+  },
+  {
+    "product_id": 25,
+    "name": "Notebook LF717 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 37.28
+  },
+  {
+    "product_id": 26,
+    "name": "Agenda ON834 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Stabilo",
+    "list_price": 15.77
+  },
+  {
+    "product_id": 27,
+    "name": "Logitech Monitor NY564 55\" FHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Logitech",
+    "list_price": 1215.65
+  },
+  {
+    "product_id": 28,
+    "name": "JBL Headphones PC423 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "JBL",
+    "list_price": 29.55
+  },
+  {
+    "product_id": 29,
+    "name": "Razer Console WC112",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Razer",
+    "list_price": 757.76
+  },
+  {
+    "product_id": 30,
+    "name": "Nikon SD Card Plus",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Nikon",
+    "list_price": 2129.54
+  },
+  {
+    "product_id": 31,
+    "name": "Tefal Cleaning TN119",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 293.89
+  },
+  {
+    "product_id": 32,
+    "name": "Sony TV Box RJ194",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 2951.92
+  },
+  {
+    "product_id": 33,
+    "name": "Sony Camera NG943 Full Frame",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Sony",
+    "list_price": 2872.14
+  },
+  {
+    "product_id": 34,
+    "name": "Logitech HDD 256GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Logitech",
+    "list_price": 96.75
+  },
+  {
+    "product_id": 35,
+    "name": "Huawei Refurbished Phone UN248 462GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Huawei",
+    "list_price": 841.33
+  },
+  {
+    "product_id": 36,
+    "name": "Samsung Projector CB800 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Samsung",
+    "list_price": 904.51
+  },
+  {
+    "product_id": 37,
+    "name": "Book: KS800 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Glénat",
+    "list_price": 24.66
+  },
+  {
+    "product_id": 38,
+    "name": "Sony Console DJ709",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Sony",
+    "list_price": 164.0
+  },
+  {
+    "product_id": 39,
+    "name": "Samsung Tablet WE782 87GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Samsung",
+    "list_price": 1588.99
+  },
+  {
+    "product_id": 40,
+    "name": "Canon Action Cam XO570 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Canon",
+    "list_price": 1027.1
+  },
+  {
+    "product_id": 41,
+    "name": "School Supply PL427",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Bic",
+    "list_price": 7.62
+  },
+  {
+    "product_id": 42,
+    "name": "Pop/Rock: JV383",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 11.57
+  },
+  {
+    "product_id": 43,
+    "name": "DVD: OX807",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Universal",
+    "list_price": 78.64
+  },
+  {
+    "product_id": 44,
+    "name": "Album: GH947",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Warner",
+    "list_price": 21.9
+  },
+  {
+    "product_id": 45,
+    "name": "Huawei PowerBank Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Huawei",
+    "list_price": 1313.38
+  },
+  {
+    "product_id": 46,
+    "name": "DVD: YO457",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Universal",
+    "list_price": 51.13
+  },
+  {
+    "product_id": 47,
+    "name": "JBL Speaker VM867 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 1299.39
+  },
+  {
+    "product_id": 48,
+    "name": "Microsoft Controller PV470",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Microsoft",
+    "list_price": 134.77
+  },
+  {
+    "product_id": 49,
+    "name": "Nintendo Controller ZU524",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Nintendo",
+    "list_price": 641.12
+  },
+  {
+    "product_id": 50,
+    "name": "DVD: TF911",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 26.02
+  },
+  {
+    "product_id": 51,
+    "name": "Yamaha Headphones ZU508 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Yamaha",
+    "list_price": 993.78
+  },
+  {
+    "product_id": 52,
+    "name": "Sony Turntable OX578",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sony",
+    "list_price": 1452.64
+  },
+  {
+    "product_id": 53,
+    "name": "Nintendo Controller BJ491",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Nintendo",
+    "list_price": 416.49
+  },
+  {
+    "product_id": 54,
+    "name": "GoPro SD Card Pro",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 2007.72
+  },
+  {
+    "product_id": 55,
+    "name": "Box Set: RA615",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Disney",
+    "list_price": 64.85
+  },
+  {
+    "product_id": 56,
+    "name": "Fujifilm Action Cam LN446 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Fujifilm",
+    "list_price": 1494.6
+  },
+  {
+    "product_id": 57,
+    "name": "Samsung Soundbar FN728 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Samsung",
+    "list_price": 3105.74
+  },
+  {
+    "product_id": 58,
+    "name": "Box Set: WY531",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Disney",
+    "list_price": 20.96
+  },
+  {
+    "product_id": 59,
+    "name": "Nikon Camera KS649 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Nikon",
+    "list_price": 2868.52
+  },
+  {
+    "product_id": 60,
+    "name": "Box Set: SE581",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Disney",
+    "list_price": 70.23
+  },
+  {
+    "product_id": 61,
+    "name": "Bosch Cleaning DW900",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Bosch",
+    "list_price": 305.92
+  },
+  {
+    "product_id": 62,
+    "name": "Nikon Camera DL747 Full Frame",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Nikon",
+    "list_price": 3552.72
+  },
+  {
+    "product_id": 63,
+    "name": "Anker Smartphone ZM280 449GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Anker",
+    "list_price": 848.31
+  },
+  {
+    "product_id": 64,
+    "name": "Game VR398 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "SteelSeries",
+    "list_price": 254.68
+  },
+  {
+    "product_id": 65,
+    "name": "Sennheiser Turntable VD644",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sennheiser",
+    "list_price": 769.76
+  },
+  {
+    "product_id": 66,
+    "name": "Canon Action Cam UQ194 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Canon",
+    "list_price": 3730.96
+  },
+  {
+    "product_id": 67,
+    "name": "Fujifilm Action Cam VJ611 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Fujifilm",
+    "list_price": 3721.37
+  },
+  {
+    "product_id": 68,
+    "name": "4K UHD: SD859",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Warner",
+    "list_price": 58.35
+  },
+  {
+    "product_id": 69,
+    "name": "Marshall Turntable PS222",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 1334.11
+  },
+  {
+    "product_id": 70,
+    "name": "Tefal Cleaning UK158",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 311.98
+  },
+  {
+    "product_id": 71,
+    "name": "Microsoft Gift Card 50€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Microsoft",
+    "list_price": 540.58
+  },
+  {
+    "product_id": 72,
+    "name": "Anker Smartphone VE966 148GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Anker",
+    "list_price": 1792.01
+  },
+  {
+    "product_id": 73,
+    "name": "Huawei Refurbished Phone IW331 399GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Huawei",
+    "list_price": 1697.99
+  },
+  {
+    "product_id": 74,
+    "name": "Box Set: UF561",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 69.16
+  },
+  {
+    "product_id": 75,
+    "name": "Classical: SL911",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "EMI",
+    "list_price": 9.8
+  },
+  {
+    "product_id": 76,
+    "name": "School Supply JX211",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 19.42
+  },
+  {
+    "product_id": 77,
+    "name": "Moulinex Cleaning DV431",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Moulinex",
+    "list_price": 527.49
+  },
+  {
+    "product_id": 78,
+    "name": "Sony Tripod RM797",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 754.37
+  },
+  {
+    "product_id": 79,
+    "name": "4K UHD: SR820",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "StudioCanal",
+    "list_price": 50.67
+  },
+  {
+    "product_id": 80,
+    "name": "Notebook QH720 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 22.34
+  },
+  {
+    "product_id": 81,
+    "name": "JBL Headphones HD262 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "JBL",
+    "list_price": 1340.59
+  },
+  {
+    "product_id": 82,
+    "name": "Box Set: HZ457",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Warner",
+    "list_price": 57.67
+  },
+  {
+    "product_id": 83,
+    "name": "Manual: SI909",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Flammarion",
+    "list_price": 18.39
+  },
+  {
+    "product_id": 84,
+    "name": "Book: MB676 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Glénat",
+    "list_price": 14.99
+  },
+  {
+    "product_id": 85,
+    "name": "Lenovo Router WR446 Plus",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Lenovo",
+    "list_price": 1126.0
+  },
+  {
+    "product_id": 86,
+    "name": "JBL Speaker OL885 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 133.17
+  },
+  {
+    "product_id": 87,
+    "name": "LG TV 65\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "LG",
+    "list_price": 2202.45
+  },
+  {
+    "product_id": 88,
+    "name": "Bosch Cleaning TO740",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Bosch",
+    "list_price": 509.75
+  },
+  {
+    "product_id": 89,
+    "name": "Moulinex Kitchen Tool MV986",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 509.35
+  },
+  {
+    "product_id": 90,
+    "name": "Apple Refurbished Phone DK516 501GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Apple",
+    "list_price": 654.23
+  },
+  {
+    "product_id": 91,
+    "name": "Samsung TV Box UU138",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Samsung",
+    "list_price": 3274.53
+  },
+  {
+    "product_id": 92,
+    "name": "Notebook DR634 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 17.18
+  },
+  {
+    "product_id": 93,
+    "name": "Acer Router AB772 Pro",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Acer",
+    "list_price": 2109.99
+  },
+  {
+    "product_id": 94,
+    "name": "Acer Tablet MQ919 198GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Acer",
+    "list_price": 2332.64
+  },
+  {
+    "product_id": 95,
+    "name": "Sony Headphones AF573 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sony",
+    "list_price": 1468.97
+  },
+  {
+    "product_id": 96,
+    "name": "School Supply AG166",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 25.82
+  },
+  {
+    "product_id": 97,
+    "name": "Dyson Kitchen Tool XN298",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Dyson",
+    "list_price": 876.49
+  },
+  {
+    "product_id": 98,
+    "name": "Nintendo Controller PB704",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Nintendo",
+    "list_price": 76.01
+  },
+  {
+    "product_id": 99,
+    "name": "Apple Fitness Tracker XU106",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Apple",
+    "list_price": 343.9
+  },
+  {
+    "product_id": 100,
+    "name": "Microsoft Notebook PA582 i7/31GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Microsoft",
+    "list_price": 969.24
+  },
+  {
+    "product_id": 101,
+    "name": "Acer Monitor RS549 65\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Acer",
+    "list_price": 2141.78
+  },
+  {
+    "product_id": 102,
+    "name": "DVD: CD205",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 79.57
+  },
+  {
+    "product_id": 103,
+    "name": "Samsung Tablet ST935 74GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Samsung",
+    "list_price": 2041.59
+  },
+  {
+    "product_id": 104,
+    "name": "Yamaha Turntable AV515",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 254.64
+  },
+  {
+    "product_id": 105,
+    "name": "Sony Console LA470",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Sony",
+    "list_price": 112.58
+  },
+  {
+    "product_id": 106,
+    "name": "Yamaha Turntable RG680",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 872.38
+  },
+  {
+    "product_id": 107,
+    "name": "Box Set: VN109",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Warner",
+    "list_price": 47.57
+  },
+  {
+    "product_id": 108,
+    "name": "Acer Notebook JF428 Ryzen 5/24GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Acer",
+    "list_price": 928.32
+  },
+  {
+    "product_id": 109,
+    "name": "Box Set: KP653",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Warner",
+    "list_price": 57.36
+  },
+  {
+    "product_id": 110,
+    "name": "Roman: HZ660",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Albin Michel",
+    "list_price": 37.7
+  },
+  {
+    "product_id": 111,
+    "name": "DVD: WO519",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Disney",
+    "list_price": 27.17
+  },
+  {
+    "product_id": 112,
+    "name": "DVD: VJ516",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Disney",
+    "list_price": 65.51
+  },
+  {
+    "product_id": 113,
+    "name": "Acer Tablet JO547 196GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Acer",
+    "list_price": 1827.56
+  },
+  {
+    "product_id": 114,
+    "name": "Microsoft Monitor QQ577 43\" FHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Microsoft",
+    "list_price": 1547.57
+  },
+  {
+    "product_id": 115,
+    "name": "SteelSeries Gift Card 25€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 392.07
+  },
+  {
+    "product_id": 116,
+    "name": "Tefal Kitchen Tool LY950",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 126.12
+  },
+  {
+    "product_id": 117,
+    "name": "Sony Lens 50mm f/1.4",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Sony",
+    "list_price": 2447.46
+  },
+  {
+    "product_id": 118,
+    "name": "Game WS652 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "SteelSeries",
+    "list_price": 121.3
+  },
+  {
+    "product_id": 119,
+    "name": "Tefal Kitchen Tool AO996",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 258.65
+  },
+  {
+    "product_id": 120,
+    "name": "Pen Bic KA740",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Bic",
+    "list_price": 30.97
+  },
+  {
+    "product_id": 121,
+    "name": "Samsung Smartwatch ON252",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Samsung",
+    "list_price": 550.32
+  },
+  {
+    "product_id": 122,
+    "name": "Google Smartwatch BM950",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Google",
+    "list_price": 1303.81
+  },
+  {
+    "product_id": 123,
+    "name": "Microsoft Mouse GA379",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Microsoft",
+    "list_price": 1630.89
+  },
+  {
+    "product_id": 124,
+    "name": "Sony Hi-Fi System UO384",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sony",
+    "list_price": 234.91
+  },
+  {
+    "product_id": 125,
+    "name": "Philips Kitchen Tool QY306",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Philips",
+    "list_price": 504.56
+  },
+  {
+    "product_id": 126,
+    "name": "Nintendo Gift Card 50€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Nintendo",
+    "list_price": 443.34
+  },
+  {
+    "product_id": 127,
+    "name": "4K UHD: JD144",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "StudioCanal",
+    "list_price": 46.86
+  },
+  {
+    "product_id": 128,
+    "name": "SteelSeries Controller BK247",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "SteelSeries",
+    "list_price": 647.4
+  },
+  {
+    "product_id": 129,
+    "name": "Pop/Rock: JT143",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Universal",
+    "list_price": 43.12
+  },
+  {
+    "product_id": 130,
+    "name": "Book: TN136 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Flammarion",
+    "list_price": 9.8
+  },
+  {
+    "product_id": 131,
+    "name": "Sony Controller FU398",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 54.68
+  },
+  {
+    "product_id": 132,
+    "name": "GoPro SD Card Pro",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 2626.48
+  },
+  {
+    "product_id": 133,
+    "name": "Notebook UD774 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Clairefontaine",
+    "list_price": 9.57
+  },
+  {
+    "product_id": 134,
+    "name": "Sony Amplifier BC693",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sony",
+    "list_price": 1206.58
+  },
+  {
+    "product_id": 135,
+    "name": "Sony Camera PF497 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Sony",
+    "list_price": 465.95
+  },
+  {
+    "product_id": 136,
+    "name": "Nintendo Console GK607",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Nintendo",
+    "list_price": 610.57
+  },
+  {
+    "product_id": 137,
+    "name": "Notebook KP384 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Clairefontaine",
+    "list_price": 15.62
+  },
+  {
+    "product_id": 138,
+    "name": "Panasonic Projector IT739 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Panasonic",
+    "list_price": 2544.19
+  },
+  {
+    "product_id": 139,
+    "name": "Game KI818 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Nintendo",
+    "list_price": 682.2
+  },
+  {
+    "product_id": 140,
+    "name": "Panasonic Home Cinema MP169",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 391.07
+  },
+  {
+    "product_id": 141,
+    "name": "Pen Oxford ZH268",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Oxford",
+    "list_price": 9.7
+  },
+  {
+    "product_id": 142,
+    "name": "Canon Tripod LE689",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Canon",
+    "list_price": 2305.14
+  },
+  {
+    "product_id": 143,
+    "name": "Belkin Refurbished Phone AI264 136GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Belkin",
+    "list_price": 1064.5
+  },
+  {
+    "product_id": 144,
+    "name": "Canon Camera QI990 Full Frame",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Canon",
+    "list_price": 310.93
+  },
+  {
+    "product_id": 145,
+    "name": "Acer SSD 256GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Acer",
+    "list_price": 1647.13
+  },
+  {
+    "product_id": 146,
+    "name": "Apple Refurbished Phone QO515 415GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Apple",
+    "list_price": 874.38
+  },
+  {
+    "product_id": 147,
+    "name": "Sennheiser Speaker RU157 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sennheiser",
+    "list_price": 22.7
+  },
+  {
+    "product_id": 148,
+    "name": "DVD: CL772",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 52.15
+  },
+  {
+    "product_id": 149,
+    "name": "Manga: OJ688 Vol.6",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Albin Michel",
+    "list_price": 21.29
+  },
+  {
+    "product_id": 150,
+    "name": "Notebook AA523 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 22.85
+  },
+  {
+    "product_id": 151,
+    "name": "Panasonic Projector BD701 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Panasonic",
+    "list_price": 2987.63
+  },
+  {
+    "product_id": 152,
+    "name": "Book: FG688 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Pocket",
+    "list_price": 41.53
+  },
+  {
+    "product_id": 153,
+    "name": "HP Monitor NM939 43\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "HP",
+    "list_price": 982.17
+  },
+  {
+    "product_id": 154,
+    "name": "JBL Headphones OJ446 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "JBL",
+    "list_price": 409.04
+  },
+  {
+    "product_id": 155,
+    "name": "BD: UE322 Tome 16",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Glénat",
+    "list_price": 10.32
+  },
+  {
+    "product_id": 156,
+    "name": "Sony Headphones ER597 Hi-Res",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sony",
+    "list_price": 953.37
+  },
+  {
+    "product_id": 157,
+    "name": "Microsoft Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Microsoft",
+    "list_price": 117.91
+  },
+  {
+    "product_id": 158,
+    "name": "DVD: ZO171",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 8.45
+  },
+  {
+    "product_id": 159,
+    "name": "Xiaomi Smartwatch SX679",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Xiaomi",
+    "list_price": 1002.07
+  },
+  {
+    "product_id": 160,
+    "name": "Philips Appliance GZ360",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Philips",
+    "list_price": 368.11
+  },
+  {
+    "product_id": 161,
+    "name": "Roman: IG255",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Flammarion",
+    "list_price": 49.82
+  },
+  {
+    "product_id": 162,
+    "name": "Bosch Kitchen Tool IV518",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Bosch",
+    "list_price": 527.92
+  },
+  {
+    "product_id": 163,
+    "name": "Agenda MM867 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 13.96
+  },
+  {
+    "product_id": 164,
+    "name": "Bosch Appliance PV974",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 397.15
+  },
+  {
+    "product_id": 165,
+    "name": "Philips Projector TJ656 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Philips",
+    "list_price": 2043.95
+  },
+  {
+    "product_id": 166,
+    "name": "Pen Stabilo DW317",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 29.13
+  },
+  {
+    "product_id": 167,
+    "name": "Seagate Monitor QD500 50\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Seagate",
+    "list_price": 1777.21
+  },
+  {
+    "product_id": 168,
+    "name": "DVD: IK107",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 8.89
+  },
+  {
+    "product_id": 169,
+    "name": "Book: XI796 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Glénat",
+    "list_price": 10.78
+  },
+  {
+    "product_id": 170,
+    "name": "Manual: TA646",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Pocket",
+    "list_price": 30.56
+  },
+  {
+    "product_id": 171,
+    "name": "Classical: OG905",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Universal",
+    "list_price": 25.19
+  },
+  {
+    "product_id": 172,
+    "name": "Seagate Monitor WL535 43\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Seagate",
+    "list_price": 1467.56
+  },
+  {
+    "product_id": 173,
+    "name": "Canon SD Card Plus",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Canon",
+    "list_price": 2512.31
+  },
+  {
+    "product_id": 174,
+    "name": "Sony TV Box WG800",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 2638.29
+  },
+  {
+    "product_id": 175,
+    "name": "Acer Desktop HW677 i5/19GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Acer",
+    "list_price": 1725.65
+  },
+  {
+    "product_id": 176,
+    "name": "Dyson Kitchen Tool BZ879",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Dyson",
+    "list_price": 285.66
+  },
+  {
+    "product_id": 177,
+    "name": "Blu-ray: GW882",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Universal",
+    "list_price": 72.07
+  },
+  {
+    "product_id": 178,
+    "name": "Nintendo Console ZM586",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Nintendo",
+    "list_price": 314.68
+  },
+  {
+    "product_id": 179,
+    "name": "Bose Headphones HI967 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Bose",
+    "list_price": 435.29
+  },
+  {
+    "product_id": 180,
+    "name": "Sony SD Card Standard",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 486.43
+  },
+  {
+    "product_id": 181,
+    "name": "Sennheiser Amplifier MK599",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sennheiser",
+    "list_price": 536.42
+  },
+  {
+    "product_id": 182,
+    "name": "Vinyl: AK360",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 41.77
+  },
+  {
+    "product_id": 183,
+    "name": "Home Accessory TX944",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Bosch",
+    "list_price": 208.58
+  },
+  {
+    "product_id": 184,
+    "name": "Pop/Rock: DD599",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Sony Music",
+    "list_price": 43.44
+  },
+  {
+    "product_id": 185,
+    "name": "Tefal Kitchen Tool CI630",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 480.55
+  },
+  {
+    "product_id": 186,
+    "name": "Agenda GG615 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Oxford",
+    "list_price": 24.26
+  },
+  {
+    "product_id": 187,
+    "name": "Philips TV 50\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Philips",
+    "list_price": 1800.92
+  },
+  {
+    "product_id": 188,
+    "name": "TCL TV 65\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "TCL",
+    "list_price": 325.74
+  },
+  {
+    "product_id": 189,
+    "name": "Sony Lens 24-70mm f/2.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Sony",
+    "list_price": 3637.51
+  },
+  {
+    "product_id": 190,
+    "name": "Samsung Monitor XW655 32\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Samsung",
+    "list_price": 887.64
+  },
+  {
+    "product_id": 191,
+    "name": "Tefal Kitchen Tool CJ147",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 61.02
+  },
+  {
+    "product_id": 192,
+    "name": "Roman: BW730",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Gallimard",
+    "list_price": 54.96
+  },
+  {
+    "product_id": 193,
+    "name": "Sony Controller QV832",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 536.64
+  },
+  {
+    "product_id": 194,
+    "name": "Microsoft Console CK850",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Microsoft",
+    "list_price": 431.26
+  },
+  {
+    "product_id": 195,
+    "name": "Sony Speaker MN700 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sony",
+    "list_price": 573.04
+  },
+  {
+    "product_id": 196,
+    "name": "Microsoft Controller BT277",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Microsoft",
+    "list_price": 659.42
+  },
+  {
+    "product_id": 197,
+    "name": "Samsung TV 75\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 2242.15
+  },
+  {
+    "product_id": 198,
+    "name": "Belkin PowerBank Plus",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Belkin",
+    "list_price": 597.09
+  },
+  {
+    "product_id": 199,
+    "name": "SteelSeries Console IN354",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "SteelSeries",
+    "list_price": 694.7
+  },
+  {
+    "product_id": 200,
+    "name": "Samsung TV 65\" QLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 2349.74
+  },
+  {
+    "product_id": 201,
+    "name": "Panasonic TV 55\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Panasonic",
+    "list_price": 1351.28
+  },
+  {
+    "product_id": 202,
+    "name": "Jazz: HQ749",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Universal",
+    "list_price": 14.08
+  },
+  {
+    "product_id": 203,
+    "name": "Nintendo Gift Card 50€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Nintendo",
+    "list_price": 771.44
+  },
+  {
+    "product_id": 204,
+    "name": "Home Accessory JL215",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Moulinex",
+    "list_price": 580.46
+  },
+  {
+    "product_id": 205,
+    "name": "Belkin Smartphone KR794 448GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Belkin",
+    "list_price": 599.4
+  },
+  {
+    "product_id": 206,
+    "name": "HP HDD 256GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "HP",
+    "list_price": 476.12
+  },
+  {
+    "product_id": 207,
+    "name": "HP Laptop FU217 i5/22GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "HP",
+    "list_price": 436.2
+  },
+  {
+    "product_id": 208,
+    "name": "Sony Camera OQ382 Full Frame",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Sony",
+    "list_price": 1675.27
+  },
+  {
+    "product_id": 209,
+    "name": "Vinyl: MD651",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Universal",
+    "list_price": 45.05
+  },
+  {
+    "product_id": 210,
+    "name": "Pen Stabilo FJ428",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 16.12
+  },
+  {
+    "product_id": 211,
+    "name": "Pop/Rock: EQ446",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Sony Music",
+    "list_price": 23.27
+  },
+  {
+    "product_id": 212,
+    "name": "DVD: VQ793",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 28.16
+  },
+  {
+    "product_id": 213,
+    "name": "Huawei Smartphone ES558 104GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Huawei",
+    "list_price": 893.1
+  },
+  {
+    "product_id": 214,
+    "name": "Dyson Appliance MB156",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Dyson",
+    "list_price": 880.99
+  },
+  {
+    "product_id": 215,
+    "name": "BD: JW202 Tome 11",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Hachette",
+    "list_price": 24.86
+  },
+  {
+    "product_id": 216,
+    "name": "GoPro Tripod UI221",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 2526.7
+  },
+  {
+    "product_id": 217,
+    "name": "Bosch Appliance KF234",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 323.92
+  },
+  {
+    "product_id": 218,
+    "name": "Google PowerBank Plus",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Google",
+    "list_price": 374.38
+  },
+  {
+    "product_id": 219,
+    "name": "Pop/Rock: BT537",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 38.3
+  },
+  {
+    "product_id": 220,
+    "name": "4K UHD: SH920",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "StudioCanal",
+    "list_price": 74.12
+  },
+  {
+    "product_id": 221,
+    "name": "Pop/Rock: UE240",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 7.11
+  },
+  {
+    "product_id": 222,
+    "name": "LG Projector GG312 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "LG",
+    "list_price": 1581.36
+  },
+  {
+    "product_id": 223,
+    "name": "Vinyl: ZK620",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Universal",
+    "list_price": 19.26
+  },
+  {
+    "product_id": 224,
+    "name": "LG Projector RZ455 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "LG",
+    "list_price": 1555.0
+  },
+  {
+    "product_id": 225,
+    "name": "Game TU683 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Nintendo",
+    "list_price": 798.59
+  },
+  {
+    "product_id": 226,
+    "name": "Samsung TV Box RX567",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Samsung",
+    "list_price": 1021.38
+  },
+  {
+    "product_id": 227,
+    "name": "Moulinex Kitchen Tool KU834",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 538.08
+  },
+  {
+    "product_id": 228,
+    "name": "Tefal Kitchen Tool CF279",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 354.62
+  },
+  {
+    "product_id": 229,
+    "name": "Fujifilm Lens 50mm f/1.4",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Fujifilm",
+    "list_price": 1131.5
+  },
+  {
+    "product_id": 230,
+    "name": "4K UHD: IG829",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Disney",
+    "list_price": 19.46
+  },
+  {
+    "product_id": 231,
+    "name": "Marshall Turntable MS573",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 474.53
+  },
+  {
+    "product_id": 232,
+    "name": "Samsung TV 32\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 2370.6
+  },
+  {
+    "product_id": 233,
+    "name": "Yamaha Turntable RE314",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 1091.2
+  },
+  {
+    "product_id": 234,
+    "name": "Logitech Monitor PQ199 65\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Logitech",
+    "list_price": 1273.33
+  },
+  {
+    "product_id": 235,
+    "name": "HP Keyboard WO293",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "HP",
+    "list_price": 209.82
+  },
+  {
+    "product_id": 236,
+    "name": "Moulinex Kitchen Tool YJ287",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 898.98
+  },
+  {
+    "product_id": 237,
+    "name": "Notebook JI742 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Oxford",
+    "list_price": 23.72
+  },
+  {
+    "product_id": 238,
+    "name": "Agenda PX324 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Stabilo",
+    "list_price": 11.59
+  },
+  {
+    "product_id": 239,
+    "name": "Anker Fitness Tracker FQ935",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Anker",
+    "list_price": 895.56
+  },
+  {
+    "product_id": 240,
+    "name": "Apple Smartphone QO389 400GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Apple",
+    "list_price": 1605.6
+  },
+  {
+    "product_id": 241,
+    "name": "DVD: GM130",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 53.87
+  },
+  {
+    "product_id": 242,
+    "name": "Manual: PQ923",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Gallimard",
+    "list_price": 44.54
+  },
+  {
+    "product_id": 243,
+    "name": "Google PowerBank Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Google",
+    "list_price": 496.4
+  },
+  {
+    "product_id": 244,
+    "name": "Canon Lens 24-70mm f/2.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Canon",
+    "list_price": 1539.54
+  },
+  {
+    "product_id": 245,
+    "name": "DVD: XL323",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 14.01
+  },
+  {
+    "product_id": 246,
+    "name": "SteelSeries Gift Card 25€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 648.66
+  },
+  {
+    "product_id": 247,
+    "name": "Panasonic Soundbar SJ669 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 1348.99
+  },
+  {
+    "product_id": 248,
+    "name": "Book: JU228 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Glénat",
+    "list_price": 38.89
+  },
+  {
+    "product_id": 249,
+    "name": "SteelSeries Gift Card 25€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 791.27
+  },
+  {
+    "product_id": 250,
+    "name": "Microsoft Desktop DU450 Ryzen 7/24GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Microsoft",
+    "list_price": 1068.09
+  },
+  {
+    "product_id": 251,
+    "name": "Apple HDD 512GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Apple",
+    "list_price": 1382.24
+  },
+  {
+    "product_id": 252,
+    "name": "Razer Console LC150",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Razer",
+    "list_price": 371.27
+  },
+  {
+    "product_id": 253,
+    "name": "BD: WM614 Tome 12",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Flammarion",
+    "list_price": 20.96
+  },
+  {
+    "product_id": 254,
+    "name": "Xiaomi Case CL845",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Xiaomi",
+    "list_price": 116.16
+  },
+  {
+    "product_id": 255,
+    "name": "Tefal Kitchen Tool KA471",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 219.73
+  },
+  {
+    "product_id": 256,
+    "name": "Samsung Charger Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Samsung",
+    "list_price": 842.15
+  },
+  {
+    "product_id": 257,
+    "name": "HP Monitor OQ268 55\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "HP",
+    "list_price": 123.68
+  },
+  {
+    "product_id": 258,
+    "name": "School Supply HU377",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Oxford",
+    "list_price": 38.86
+  },
+  {
+    "product_id": 259,
+    "name": "Notebook TK338 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Clairefontaine",
+    "list_price": 37.97
+  },
+  {
+    "product_id": 260,
+    "name": "JBL Headphones NG196 Hi-Res",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "JBL",
+    "list_price": 758.21
+  },
+  {
+    "product_id": 261,
+    "name": "Marshall Headphones US743 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Marshall",
+    "list_price": 52.44
+  },
+  {
+    "product_id": 262,
+    "name": "Box Set: AA339",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 46.09
+  },
+  {
+    "product_id": 263,
+    "name": "Blu-ray: FK375",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Disney",
+    "list_price": 79.91
+  },
+  {
+    "product_id": 264,
+    "name": "Manual: OS401",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Albin Michel",
+    "list_price": 47.94
+  },
+  {
+    "product_id": 265,
+    "name": "Lenovo SSD 512GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Lenovo",
+    "list_price": 239.15
+  },
+  {
+    "product_id": 266,
+    "name": "Manual: AM440",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Albin Michel",
+    "list_price": 48.34
+  },
+  {
+    "product_id": 267,
+    "name": "DVD: FA236",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Disney",
+    "list_price": 7.79
+  },
+  {
+    "product_id": 268,
+    "name": "Classical: DE372",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 29.72
+  },
+  {
+    "product_id": 269,
+    "name": "Classical: HK672",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Warner",
+    "list_price": 33.1
+  },
+  {
+    "product_id": 270,
+    "name": "Book: UC491 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Hachette",
+    "list_price": 57.97
+  },
+  {
+    "product_id": 271,
+    "name": "DVD: EV675",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 7.56
+  },
+  {
+    "product_id": 272,
+    "name": "Game FI167 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Razer",
+    "list_price": 329.19
+  },
+  {
+    "product_id": 273,
+    "name": "Pop/Rock: LE735",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 35.79
+  },
+  {
+    "product_id": 274,
+    "name": "Moulinex Kitchen Tool YP283",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 694.17
+  },
+  {
+    "product_id": 275,
+    "name": "Game NS740 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Microsoft",
+    "list_price": 664.05
+  },
+  {
+    "product_id": 276,
+    "name": "Blu-ray: WG894",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 18.66
+  },
+  {
+    "product_id": 277,
+    "name": "Samsung TV 65\" QLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 2059.8
+  },
+  {
+    "product_id": 278,
+    "name": "Classical: UO474",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 9.71
+  },
+  {
+    "product_id": 279,
+    "name": "Xiaomi Refurbished Phone KE623 477GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Xiaomi",
+    "list_price": 1488.92
+  },
+  {
+    "product_id": 280,
+    "name": "Home Accessory RF265",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 827.31
+  },
+  {
+    "product_id": 281,
+    "name": "School Supply MP592",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 8.02
+  },
+  {
+    "product_id": 282,
+    "name": "Lenovo Keyboard TS632",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Lenovo",
+    "list_price": 823.38
+  },
+  {
+    "product_id": 283,
+    "name": "LG TV Box KQ471",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "LG",
+    "list_price": 438.52
+  },
+  {
+    "product_id": 284,
+    "name": "Tefal Appliance TT886",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Tefal",
+    "list_price": 765.88
+  },
+  {
+    "product_id": 285,
+    "name": "Anker Charger Standard",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Anker",
+    "list_price": 1411.91
+  },
+  {
+    "product_id": 286,
+    "name": "Lenovo SSD 256GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Lenovo",
+    "list_price": 2294.43
+  },
+  {
+    "product_id": 287,
+    "name": "Roman: OR901",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Glénat",
+    "list_price": 36.64
+  },
+  {
+    "product_id": 288,
+    "name": "Manga: YC359 Vol.17",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Hachette",
+    "list_price": 30.85
+  },
+  {
+    "product_id": 289,
+    "name": "Notebook WL220 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 12.55
+  },
+  {
+    "product_id": 290,
+    "name": "JBL Amplifier EW163",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "JBL",
+    "list_price": 1478.71
+  },
+  {
+    "product_id": 291,
+    "name": "JBL Turntable ZW226",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "JBL",
+    "list_price": 292.66
+  },
+  {
+    "product_id": 292,
+    "name": "School Supply RB556",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 12.88
+  },
+  {
+    "product_id": 293,
+    "name": "Roman: VC902",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Flammarion",
+    "list_price": 40.7
+  },
+  {
+    "product_id": 294,
+    "name": "Blu-ray: SH771",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 28.37
+  },
+  {
+    "product_id": 295,
+    "name": "Sony Camera TE724 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Sony",
+    "list_price": 3629.56
+  },
+  {
+    "product_id": 296,
+    "name": "Book: NT497 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Pocket",
+    "list_price": 6.37
+  },
+  {
+    "product_id": 297,
+    "name": "Canon Camera SH506 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Canon",
+    "list_price": 718.99
+  },
+  {
+    "product_id": 298,
+    "name": "Bosch Appliance DD423",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 879.29
+  },
+  {
+    "product_id": 299,
+    "name": "Pop/Rock: JP516",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 35.21
+  },
+  {
+    "product_id": 300,
+    "name": "TCL TV Box ZM195",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "TCL",
+    "list_price": 334.03
+  },
+  {
+    "product_id": 301,
+    "name": "Samsung Laptop RG216 i7/20GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Samsung",
+    "list_price": 1328.23
+  },
+  {
+    "product_id": 302,
+    "name": "Agenda JZ719 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 25.9
+  },
+  {
+    "product_id": 303,
+    "name": "Panasonic TV 32\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Panasonic",
+    "list_price": 1122.5
+  },
+  {
+    "product_id": 304,
+    "name": "Manual: NM186",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Gallimard",
+    "list_price": 9.94
+  },
+  {
+    "product_id": 305,
+    "name": "LG TV Box OX502",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "LG",
+    "list_price": 2750.56
+  },
+  {
+    "product_id": 306,
+    "name": "GoPro Camera BU385 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "GoPro",
+    "list_price": 2887.07
+  },
+  {
+    "product_id": 307,
+    "name": "Classical: EZ989",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Universal",
+    "list_price": 19.04
+  },
+  {
+    "product_id": 308,
+    "name": "Notebook UT452 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Oxford",
+    "list_price": 39.78
+  },
+  {
+    "product_id": 309,
+    "name": "Samsung Case TP386",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Samsung",
+    "list_price": 1501.56
+  },
+  {
+    "product_id": 310,
+    "name": "OnePlus Refurbished Phone WK489 370GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "OnePlus",
+    "list_price": 369.26
+  },
+  {
+    "product_id": 311,
+    "name": "Book: WL873 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Flammarion",
+    "list_price": 12.3
+  },
+  {
+    "product_id": 312,
+    "name": "Philips Home Cinema TA772",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Philips",
+    "list_price": 2355.44
+  },
+  {
+    "product_id": 313,
+    "name": "Samsung Refurbished Phone YZ779 272GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Samsung",
+    "list_price": 1226.29
+  },
+  {
+    "product_id": 314,
+    "name": "Manual: GY180",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Hachette",
+    "list_price": 43.07
+  },
+  {
+    "product_id": 315,
+    "name": "Google Refurbished Phone TV334 157GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Google",
+    "list_price": 226.33
+  },
+  {
+    "product_id": 316,
+    "name": "Vinyl: JR558",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 43.54
+  },
+  {
+    "product_id": 317,
+    "name": "Agenda RS362 2025",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Oxford",
+    "list_price": 39.46
+  },
+  {
+    "product_id": 318,
+    "name": "SteelSeries Gift Card 25€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 392.54
+  },
+  {
+    "product_id": 319,
+    "name": "DVD: HK764",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 75.88
+  },
+  {
+    "product_id": 320,
+    "name": "Manual: ZB239",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Glénat",
+    "list_price": 37.01
+  },
+  {
+    "product_id": 321,
+    "name": "TCL Soundbar IA240 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "TCL",
+    "list_price": 3283.15
+  },
+  {
+    "product_id": 322,
+    "name": "SteelSeries Controller DT853",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "SteelSeries",
+    "list_price": 471.22
+  },
+  {
+    "product_id": 323,
+    "name": "Seagate Monitor GJ812 65\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Seagate",
+    "list_price": 266.71
+  },
+  {
+    "product_id": 324,
+    "name": "Pop/Rock: UB407",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 35.49
+  },
+  {
+    "product_id": 325,
+    "name": "Samsung Webcam LP136",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Samsung",
+    "list_price": 634.65
+  },
+  {
+    "product_id": 326,
+    "name": "Sony SD Card Plus",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 2363.92
+  },
+  {
+    "product_id": 327,
+    "name": "Microsoft Controller TI998",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Microsoft",
+    "list_price": 401.16
+  },
+  {
+    "product_id": 328,
+    "name": "Bose Hi-Fi System GB898",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Bose",
+    "list_price": 507.39
+  },
+  {
+    "product_id": 329,
+    "name": "Nikon Lens 35mm f/1.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Nikon",
+    "list_price": 3249.32
+  },
+  {
+    "product_id": 330,
+    "name": "Vinyl: WA504",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 37.73
+  },
+  {
+    "product_id": 331,
+    "name": "Manual: IV733",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Hachette",
+    "list_price": 19.16
+  },
+  {
+    "product_id": 332,
+    "name": "Sony Home Cinema FS969",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Sony",
+    "list_price": 857.0
+  },
+  {
+    "product_id": 333,
+    "name": "Notebook PQ946 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 13.93
+  },
+  {
+    "product_id": 334,
+    "name": "Agenda HQ546 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 19.07
+  },
+  {
+    "product_id": 335,
+    "name": "Pop/Rock: XK393",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Sony Music",
+    "list_price": 39.43
+  },
+  {
+    "product_id": 336,
+    "name": "LG TV 43\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "LG",
+    "list_price": 1028.49
+  },
+  {
+    "product_id": 337,
+    "name": "Philips TV Box VD888",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Philips",
+    "list_price": 1374.33
+  },
+  {
+    "product_id": 338,
+    "name": "Game GJ596 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Nintendo",
+    "list_price": 148.08
+  },
+  {
+    "product_id": 339,
+    "name": "Sony Home Cinema NN747",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Sony",
+    "list_price": 1337.33
+  },
+  {
+    "product_id": 340,
+    "name": "Dyson Appliance JW872",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Dyson",
+    "list_price": 897.73
+  },
+  {
+    "product_id": 341,
+    "name": "Bosch Appliance KY306",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 751.53
+  },
+  {
+    "product_id": 342,
+    "name": "Belkin Case NX636",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Belkin",
+    "list_price": 425.68
+  },
+  {
+    "product_id": 343,
+    "name": "Roman: NA632",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Hachette",
+    "list_price": 56.41
+  },
+  {
+    "product_id": 344,
+    "name": "Anker Refurbished Phone PP883 377GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Anker",
+    "list_price": 1083.25
+  },
+  {
+    "product_id": 345,
+    "name": "Sony Action Cam EQ608 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Sony",
+    "list_price": 1891.67
+  },
+  {
+    "product_id": 346,
+    "name": "Huawei Case YG983",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Huawei",
+    "list_price": 1028.52
+  },
+  {
+    "product_id": 347,
+    "name": "Sony Hi-Fi System ZT897",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sony",
+    "list_price": 983.25
+  },
+  {
+    "product_id": 348,
+    "name": "School Supply TH210",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 8.0
+  },
+  {
+    "product_id": 349,
+    "name": "Pen Stabilo YK918",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 18.41
+  },
+  {
+    "product_id": 350,
+    "name": "Moulinex Appliance PJ934",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Moulinex",
+    "list_price": 620.76
+  },
+  {
+    "product_id": 351,
+    "name": "DVD: VW255",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Disney",
+    "list_price": 31.1
+  },
+  {
+    "product_id": 352,
+    "name": "Notebook TX561 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 16.03
+  },
+  {
+    "product_id": 353,
+    "name": "Agenda OG549 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Bic",
+    "list_price": 9.55
+  },
+  {
+    "product_id": 354,
+    "name": "Bosch Appliance OJ573",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 789.53
+  },
+  {
+    "product_id": 355,
+    "name": "Home Accessory OZ220",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 247.28
+  },
+  {
+    "product_id": 356,
+    "name": "Fujifilm Action Cam GV604 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Fujifilm",
+    "list_price": 1709.01
+  },
+  {
+    "product_id": 357,
+    "name": "Album: EE316",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Universal",
+    "list_price": 48.44
+  },
+  {
+    "product_id": 358,
+    "name": "Belkin Refurbished Phone FK803 360GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Belkin",
+    "list_price": 1626.76
+  },
+  {
+    "product_id": 359,
+    "name": "Pop/Rock: ZC618",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 43.02
+  },
+  {
+    "product_id": 360,
+    "name": "Nikon Action Cam OJ911 4K60",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Nikon",
+    "list_price": 2146.25
+  },
+  {
+    "product_id": 361,
+    "name": "OnePlus Case LA471",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "OnePlus",
+    "list_price": 1579.66
+  },
+  {
+    "product_id": 362,
+    "name": "TCL Home Cinema FU721",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "TCL",
+    "list_price": 1003.23
+  },
+  {
+    "product_id": 363,
+    "name": "Blu-ray: YY198",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Disney",
+    "list_price": 56.84
+  },
+  {
+    "product_id": 364,
+    "name": "Sony Console BM135",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Sony",
+    "list_price": 239.67
+  },
+  {
+    "product_id": 365,
+    "name": "Pop/Rock: ZS140",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 11.05
+  },
+  {
+    "product_id": 366,
+    "name": "Google Smartphone GV765 180GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Google",
+    "list_price": 518.84
+  },
+  {
+    "product_id": 367,
+    "name": "BD: TV483 Tome 4",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Pocket",
+    "list_price": 53.82
+  },
+  {
+    "product_id": 368,
+    "name": "Xiaomi Smartphone AU200 373GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Xiaomi",
+    "list_price": 311.46
+  },
+  {
+    "product_id": 369,
+    "name": "SteelSeries Console MA580",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "SteelSeries",
+    "list_price": 17.75
+  },
+  {
+    "product_id": 370,
+    "name": "Sennheiser Speaker JZ874 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sennheiser",
+    "list_price": 74.34
+  },
+  {
+    "product_id": 371,
+    "name": "Game YM215 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Microsoft",
+    "list_price": 597.51
+  },
+  {
+    "product_id": 372,
+    "name": "Pen Stabilo SA143",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 5.18
+  },
+  {
+    "product_id": 373,
+    "name": "Canon Action Cam YU822 Stabilized",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Canon",
+    "list_price": 3733.88
+  },
+  {
+    "product_id": 374,
+    "name": "Microsoft Notebook VD313 i5/14GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Microsoft",
+    "list_price": 1961.26
+  },
+  {
+    "product_id": 375,
+    "name": "Home Accessory PD936",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 712.34
+  },
+  {
+    "product_id": 376,
+    "name": "Book: OV704 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Gallimard",
+    "list_price": 15.15
+  },
+  {
+    "product_id": 377,
+    "name": "Moulinex Kitchen Tool XL932",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 589.76
+  },
+  {
+    "product_id": 378,
+    "name": "Microsoft Tablet FF770 168GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Microsoft",
+    "list_price": 651.94
+  },
+  {
+    "product_id": 379,
+    "name": "Asus Monitor KC813 43\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Asus",
+    "list_price": 558.12
+  },
+  {
+    "product_id": 380,
+    "name": "Bosch Cleaning SP734",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Bosch",
+    "list_price": 283.91
+  },
+  {
+    "product_id": 381,
+    "name": "Tefal Cleaning YI439",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 428.92
+  },
+  {
+    "product_id": 382,
+    "name": "Vinyl: FN825",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 21.66
+  },
+  {
+    "product_id": 383,
+    "name": "Roman: VR457",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Flammarion",
+    "list_price": 33.44
+  },
+  {
+    "product_id": 384,
+    "name": "Notebook XX387 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 31.78
+  },
+  {
+    "product_id": 385,
+    "name": "SteelSeries Console ZL129",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "SteelSeries",
+    "list_price": 263.23
+  },
+  {
+    "product_id": 386,
+    "name": "Sennheiser Headphones CR972 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sennheiser",
+    "list_price": 497.38
+  },
+  {
+    "product_id": 387,
+    "name": "Bosch Cleaning YK429",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Bosch",
+    "list_price": 564.05
+  },
+  {
+    "product_id": 388,
+    "name": "Dyson Kitchen Tool UI212",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Dyson",
+    "list_price": 734.17
+  },
+  {
+    "product_id": 389,
+    "name": "Manual: DL761",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Flammarion",
+    "list_price": 59.12
+  },
+  {
+    "product_id": 390,
+    "name": "Manual: LU803",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Albin Michel",
+    "list_price": 25.95
+  },
+  {
+    "product_id": 391,
+    "name": "Book: QB105 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Flammarion",
+    "list_price": 25.65
+  },
+  {
+    "product_id": 392,
+    "name": "Marshall Turntable ZU106",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 342.95
+  },
+  {
+    "product_id": 393,
+    "name": "School Supply ZL533",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 33.94
+  },
+  {
+    "product_id": 394,
+    "name": "School Supply PH501",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Oxford",
+    "list_price": 33.65
+  },
+  {
+    "product_id": 395,
+    "name": "Agenda RG373 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 7.74
+  },
+  {
+    "product_id": 396,
+    "name": "Fujifilm Tripod IR491",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 1701.11
+  },
+  {
+    "product_id": 397,
+    "name": "Yamaha Speaker GN735 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Yamaha",
+    "list_price": 1263.14
+  },
+  {
+    "product_id": 398,
+    "name": "Acer Monitor BJ322 75\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Acer",
+    "list_price": 1489.4
+  },
+  {
+    "product_id": 399,
+    "name": "Agenda CD227 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Stabilo",
+    "list_price": 3.08
+  },
+  {
+    "product_id": 400,
+    "name": "Manga: OQ989 Vol.12",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Pocket",
+    "list_price": 49.82
+  },
+  {
+    "product_id": 401,
+    "name": "Samsung Tablet PH662 195GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Samsung",
+    "list_price": 767.92
+  },
+  {
+    "product_id": 402,
+    "name": "Xiaomi Refurbished Phone BF864 409GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Xiaomi",
+    "list_price": 1337.62
+  },
+  {
+    "product_id": 403,
+    "name": "Fujifilm SD Card Plus",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 921.07
+  },
+  {
+    "product_id": 404,
+    "name": "Philips Projector FM528 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Philips",
+    "list_price": 2938.72
+  },
+  {
+    "product_id": 405,
+    "name": "Game WG700 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "SteelSeries",
+    "list_price": 706.81
+  },
+  {
+    "product_id": 406,
+    "name": "Sony TV Box WT925",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 1007.71
+  },
+  {
+    "product_id": 407,
+    "name": "SteelSeries Controller YU707",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "SteelSeries",
+    "list_price": 494.52
+  },
+  {
+    "product_id": 408,
+    "name": "Fujifilm Tripod XG244",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 1880.41
+  },
+  {
+    "product_id": 409,
+    "name": "Fujifilm SD Card Plus",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 1426.62
+  },
+  {
+    "product_id": 410,
+    "name": "Sony Home Cinema IC459",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Sony",
+    "list_price": 1963.3
+  },
+  {
+    "product_id": 411,
+    "name": "4K UHD: RO262",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Disney",
+    "list_price": 32.3
+  },
+  {
+    "product_id": 412,
+    "name": "GoPro Lens 50mm f/1.4",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "GoPro",
+    "list_price": 3383.33
+  },
+  {
+    "product_id": 413,
+    "name": "Moulinex Appliance XN511",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Moulinex",
+    "list_price": 244.3
+  },
+  {
+    "product_id": 414,
+    "name": "TCL TV 50\" QLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "TCL",
+    "list_price": 73.48
+  },
+  {
+    "product_id": 415,
+    "name": "DVD: GT977",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Universal",
+    "list_price": 28.03
+  },
+  {
+    "product_id": 416,
+    "name": "Notebook KA440 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Oxford",
+    "list_price": 31.36
+  },
+  {
+    "product_id": 417,
+    "name": "Tefal Cleaning KU678",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 265.84
+  },
+  {
+    "product_id": 418,
+    "name": "Classical: QB183",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Warner",
+    "list_price": 48.06
+  },
+  {
+    "product_id": 419,
+    "name": "Notebook KU967 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 4.27
+  },
+  {
+    "product_id": 420,
+    "name": "JBL Headphones IP599 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "JBL",
+    "list_price": 799.95
+  },
+  {
+    "product_id": 421,
+    "name": "BD: TL335 Tome 5",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Albin Michel",
+    "list_price": 31.05
+  },
+  {
+    "product_id": 422,
+    "name": "Philips Cleaning CA635",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Philips",
+    "list_price": 649.07
+  },
+  {
+    "product_id": 423,
+    "name": "Jazz: WS695",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "EMI",
+    "list_price": 36.69
+  },
+  {
+    "product_id": 424,
+    "name": "Belkin Case TC724",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Belkin",
+    "list_price": 1268.11
+  },
+  {
+    "product_id": 425,
+    "name": "Manga: SR860 Vol.19",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Albin Michel",
+    "list_price": 50.55
+  },
+  {
+    "product_id": 426,
+    "name": "Pop/Rock: DL142",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 31.46
+  },
+  {
+    "product_id": 427,
+    "name": "Pop/Rock: WT428",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 26.35
+  },
+  {
+    "product_id": 428,
+    "name": "Sony SD Card Pro",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 3250.93
+  },
+  {
+    "product_id": 429,
+    "name": "Samsung Fitness Tracker LY837",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Samsung",
+    "list_price": 958.25
+  },
+  {
+    "product_id": 430,
+    "name": "Manga: UD349 Vol.10",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Pocket",
+    "list_price": 5.99
+  },
+  {
+    "product_id": 431,
+    "name": "Bosch Kitchen Tool MC422",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Bosch",
+    "list_price": 75.57
+  },
+  {
+    "product_id": 432,
+    "name": "Jazz: UP464",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Warner",
+    "list_price": 11.52
+  },
+  {
+    "product_id": 433,
+    "name": "Vinyl: SD195",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Sony Music",
+    "list_price": 8.77
+  },
+  {
+    "product_id": 434,
+    "name": "Lenovo SSD 512GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Lenovo",
+    "list_price": 396.31
+  },
+  {
+    "product_id": 435,
+    "name": "Philips TV 32\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Philips",
+    "list_price": 932.66
+  },
+  {
+    "product_id": 436,
+    "name": "Manga: SH402 Vol.15",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Albin Michel",
+    "list_price": 22.99
+  },
+  {
+    "product_id": 437,
+    "name": "Sony Controller VO869",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 627.6
+  },
+  {
+    "product_id": 438,
+    "name": "HP Monitor FD186 65\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "HP",
+    "list_price": 749.43
+  },
+  {
+    "product_id": 439,
+    "name": "Home Accessory TT723",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Tefal",
+    "list_price": 538.05
+  },
+  {
+    "product_id": 440,
+    "name": "Pen Bic WG607",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Bic",
+    "list_price": 21.6
+  },
+  {
+    "product_id": 441,
+    "name": "Panasonic Home Cinema LT242",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 1845.49
+  },
+  {
+    "product_id": 442,
+    "name": "Panasonic Home Cinema XF918",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 415.69
+  },
+  {
+    "product_id": 443,
+    "name": "Sony Turntable OD115",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sony",
+    "list_price": 257.09
+  },
+  {
+    "product_id": 444,
+    "name": "Home Accessory ND166",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Philips",
+    "list_price": 682.7
+  },
+  {
+    "product_id": 445,
+    "name": "Moulinex Kitchen Tool SU146",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 637.98
+  },
+  {
+    "product_id": 446,
+    "name": "GoPro Tripod RJ859",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 2827.98
+  },
+  {
+    "product_id": 447,
+    "name": "Panasonic Projector GU682 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Panasonic",
+    "list_price": 2148.24
+  },
+  {
+    "product_id": 448,
+    "name": "Manual: AC659",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Hachette",
+    "list_price": 29.26
+  },
+  {
+    "product_id": 449,
+    "name": "Blu-ray: BS704",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Universal",
+    "list_price": 72.77
+  },
+  {
+    "product_id": 450,
+    "name": "DVD: OM530",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 75.98
+  },
+  {
+    "product_id": 451,
+    "name": "Xiaomi Smartwatch MX417",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Xiaomi",
+    "list_price": 1537.81
+  },
+  {
+    "product_id": 452,
+    "name": "Bosch Cleaning TB601",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Bosch",
+    "list_price": 600.72
+  },
+  {
+    "product_id": 453,
+    "name": "Anker Charger Plus",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Anker",
+    "list_price": 1312.33
+  },
+  {
+    "product_id": 454,
+    "name": "Anker Smartphone KU324 342GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Anker",
+    "list_price": 198.96
+  },
+  {
+    "product_id": 455,
+    "name": "Blu-ray: SL501",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 61.36
+  },
+  {
+    "product_id": 456,
+    "name": "Dell Desktop YH391 i7/24GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Dell",
+    "list_price": 2427.48
+  },
+  {
+    "product_id": 457,
+    "name": "Sony Controller SC416",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 603.66
+  },
+  {
+    "product_id": 458,
+    "name": "Nikon Action Cam ZO711 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Nikon",
+    "list_price": 968.22
+  },
+  {
+    "product_id": 459,
+    "name": "Tefal Kitchen Tool IU246",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Tefal",
+    "list_price": 489.86
+  },
+  {
+    "product_id": 460,
+    "name": "Asus Router GD462 Plus",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Asus",
+    "list_price": 1900.27
+  },
+  {
+    "product_id": 461,
+    "name": "Dell Desktop RG633 Ryzen 7/25GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Dell",
+    "list_price": 654.58
+  },
+  {
+    "product_id": 462,
+    "name": "Roman: XI226",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Albin Michel",
+    "list_price": 30.1
+  },
+  {
+    "product_id": 463,
+    "name": "Box Set: YT226",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Warner",
+    "list_price": 28.0
+  },
+  {
+    "product_id": 464,
+    "name": "JBL Turntable HX708",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "JBL",
+    "list_price": 303.72
+  },
+  {
+    "product_id": 465,
+    "name": "Nikon Lens 50mm f/1.4",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Nikon",
+    "list_price": 1122.2
+  },
+  {
+    "product_id": 466,
+    "name": "DVD: WM473",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 59.52
+  },
+  {
+    "product_id": 467,
+    "name": "Game GT476 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Nintendo",
+    "list_price": 259.3
+  },
+  {
+    "product_id": 468,
+    "name": "Moulinex Kitchen Tool IW752",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 798.5
+  },
+  {
+    "product_id": 469,
+    "name": "Moulinex Kitchen Tool XU891",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Moulinex",
+    "list_price": 577.29
+  },
+  {
+    "product_id": 470,
+    "name": "Manga: RP225 Vol.19",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Gallimard",
+    "list_price": 52.39
+  },
+  {
+    "product_id": 471,
+    "name": "Anker Fitness Tracker IR815",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Anker",
+    "list_price": 1134.26
+  },
+  {
+    "product_id": 472,
+    "name": "Marshall Turntable YP470",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 96.93
+  },
+  {
+    "product_id": 473,
+    "name": "Belkin Refurbished Phone EN717 125GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Belkin",
+    "list_price": 1462.51
+  },
+  {
+    "product_id": 474,
+    "name": "Apple Monitor NW665 50\" FHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Apple",
+    "list_price": 1094.43
+  },
+  {
+    "product_id": 475,
+    "name": "Classical: ON638",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "EMI",
+    "list_price": 8.37
+  },
+  {
+    "product_id": 476,
+    "name": "Philips Cleaning EK314",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Philips",
+    "list_price": 704.88
+  },
+  {
+    "product_id": 477,
+    "name": "School Supply DV412",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 39.19
+  },
+  {
+    "product_id": 478,
+    "name": "Nikon Tripod LE285",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Nikon",
+    "list_price": 35.28
+  },
+  {
+    "product_id": 479,
+    "name": "Jazz: JO359",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Sony Music",
+    "list_price": 48.34
+  },
+  {
+    "product_id": 480,
+    "name": "Nintendo Controller XW527",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Nintendo",
+    "list_price": 703.41
+  },
+  {
+    "product_id": 481,
+    "name": "Samsung PowerBank Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Samsung",
+    "list_price": 33.4
+  },
+  {
+    "product_id": 482,
+    "name": "Vinyl: ZG833",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 31.0
+  },
+  {
+    "product_id": 483,
+    "name": "Classical: UU572",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "EMI",
+    "list_price": 42.91
+  },
+  {
+    "product_id": 484,
+    "name": "Logitech Monitor EV377 55\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Logitech",
+    "list_price": 909.23
+  },
+  {
+    "product_id": 485,
+    "name": "Panasonic TV 75\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Panasonic",
+    "list_price": 443.49
+  },
+  {
+    "product_id": 486,
+    "name": "DVD: AI709",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Disney",
+    "list_price": 62.04
+  },
+  {
+    "product_id": 487,
+    "name": "Google PowerBank Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Google",
+    "list_price": 71.95
+  },
+  {
+    "product_id": 488,
+    "name": "Blu-ray: AZ183",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Universal",
+    "list_price": 66.44
+  },
+  {
+    "product_id": 489,
+    "name": "Sony Action Cam OE134 4K60",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Sony",
+    "list_price": 3330.37
+  },
+  {
+    "product_id": 490,
+    "name": "Samsung TV 65\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 217.4
+  },
+  {
+    "product_id": 491,
+    "name": "HP Router DV352 Pro",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "HP",
+    "list_price": 2267.5
+  },
+  {
+    "product_id": 492,
+    "name": "Bosch Appliance PJ661",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 664.83
+  },
+  {
+    "product_id": 493,
+    "name": "Samsung Monitor QG893 55\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Samsung",
+    "list_price": 679.8
+  },
+  {
+    "product_id": 494,
+    "name": "Pop/Rock: XW517",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 40.6
+  },
+  {
+    "product_id": 495,
+    "name": "Apple Charger Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Apple",
+    "list_price": 406.76
+  },
+  {
+    "product_id": 496,
+    "name": "Yamaha Turntable OB214",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 92.37
+  },
+  {
+    "product_id": 497,
+    "name": "School Supply UQ572",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 25.14
+  },
+  {
+    "product_id": 498,
+    "name": "Jazz: NF791",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Sony Music",
+    "list_price": 24.06
+  },
+  {
+    "product_id": 499,
+    "name": "Jazz: QE121",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Warner",
+    "list_price": 9.17
+  },
+  {
+    "product_id": 500,
+    "name": "Panasonic Home Cinema RU270",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 2793.94
+  },
+  {
+    "product_id": 501,
+    "name": "Home Accessory SH220",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Philips",
+    "list_price": 71.21
+  },
+  {
+    "product_id": 502,
+    "name": "Asus Monitor SU289 43\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Asus",
+    "list_price": 1506.68
+  },
+  {
+    "product_id": 503,
+    "name": "Sony Headphones EB778 Hi-Res",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sony",
+    "list_price": 245.48
+  },
+  {
+    "product_id": 504,
+    "name": "Philips TV 65\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Philips",
+    "list_price": 777.25
+  },
+  {
+    "product_id": 505,
+    "name": "4K UHD: YK660",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Universal",
+    "list_price": 35.5
+  },
+  {
+    "product_id": 506,
+    "name": "Nikon Tripod GJ449",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Nikon",
+    "list_price": 2148.22
+  },
+  {
+    "product_id": 507,
+    "name": "GoPro Lens 35mm f/1.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "GoPro",
+    "list_price": 739.58
+  },
+  {
+    "product_id": 508,
+    "name": "Canon Lens 35mm f/1.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Canon",
+    "list_price": 507.28
+  },
+  {
+    "product_id": 509,
+    "name": "Sennheiser Headphones XP109 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sennheiser",
+    "list_price": 1012.45
+  },
+  {
+    "product_id": 510,
+    "name": "Apple Router RU424 Standard",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Apple",
+    "list_price": 1802.06
+  },
+  {
+    "product_id": 511,
+    "name": "School Supply AJ519",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 5.44
+  },
+  {
+    "product_id": 512,
+    "name": "Roman: QG872",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Gallimard",
+    "list_price": 6.68
+  },
+  {
+    "product_id": 513,
+    "name": "Album: EK172",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Universal",
+    "list_price": 33.91
+  },
+  {
+    "product_id": 514,
+    "name": "Agenda GA248 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 6.27
+  },
+  {
+    "product_id": 515,
+    "name": "Huawei PowerBank Plus",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Huawei",
+    "list_price": 1627.73
+  },
+  {
+    "product_id": 516,
+    "name": "Canon Tripod VH549",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Canon",
+    "list_price": 664.36
+  },
+  {
+    "product_id": 517,
+    "name": "Google Smartphone OP552 345GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Google",
+    "list_price": 1147.78
+  },
+  {
+    "product_id": 518,
+    "name": "Classical: YI104",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 16.28
+  },
+  {
+    "product_id": 519,
+    "name": "Jazz: ZH380",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Sony Music",
+    "list_price": 24.09
+  },
+  {
+    "product_id": 520,
+    "name": "Yamaha Turntable FB987",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 828.98
+  },
+  {
+    "product_id": 521,
+    "name": "Home Accessory LP480",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Bosch",
+    "list_price": 368.08
+  },
+  {
+    "product_id": 522,
+    "name": "Pop/Rock: KX782",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 43.82
+  },
+  {
+    "product_id": 523,
+    "name": "Game FN281 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Sony",
+    "list_price": 372.46
+  },
+  {
+    "product_id": 524,
+    "name": "School Supply PQ774",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Bic",
+    "list_price": 15.72
+  },
+  {
+    "product_id": 525,
+    "name": "DVD: EN262",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 60.94
+  },
+  {
+    "product_id": 526,
+    "name": "Notebook UJ176 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 20.17
+  },
+  {
+    "product_id": 527,
+    "name": "Jazz: BN550",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Universal",
+    "list_price": 9.88
+  },
+  {
+    "product_id": 528,
+    "name": "Microsoft Webcam LQ363",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Microsoft",
+    "list_price": 2104.89
+  },
+  {
+    "product_id": 529,
+    "name": "Sony Projector LF767 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Sony",
+    "list_price": 84.65
+  },
+  {
+    "product_id": 530,
+    "name": "Sony TV Box JW902",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 45.15
+  },
+  {
+    "product_id": 531,
+    "name": "Belkin Smartwatch NO385",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Belkin",
+    "list_price": 1002.28
+  },
+  {
+    "product_id": 532,
+    "name": "Marshall Turntable PE196",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 1438.78
+  },
+  {
+    "product_id": 533,
+    "name": "Xiaomi Case HP990",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Xiaomi",
+    "list_price": 21.16
+  },
+  {
+    "product_id": 534,
+    "name": "Pop/Rock: LQ218",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 48.13
+  },
+  {
+    "product_id": 535,
+    "name": "GoPro Action Cam CJ986 Stabilized",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "GoPro",
+    "list_price": 2261.38
+  },
+  {
+    "product_id": 536,
+    "name": "Manual: NB529",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Glénat",
+    "list_price": 7.36
+  },
+  {
+    "product_id": 537,
+    "name": "OnePlus Charger Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "OnePlus",
+    "list_price": 827.5
+  },
+  {
+    "product_id": 538,
+    "name": "DVD: RV606",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Universal",
+    "list_price": 9.6
+  },
+  {
+    "product_id": 539,
+    "name": "Yamaha Hi-Fi System DB125",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Yamaha",
+    "list_price": 47.85
+  },
+  {
+    "product_id": 540,
+    "name": "Sony SD Card Pro",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 73.97
+  },
+  {
+    "product_id": 541,
+    "name": "4K UHD: ZJ172",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Universal",
+    "list_price": 42.28
+  },
+  {
+    "product_id": 542,
+    "name": "Marshall Turntable FN930",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 1416.96
+  },
+  {
+    "product_id": 543,
+    "name": "Manga: QK334 Vol.9",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Pocket",
+    "list_price": 29.07
+  },
+  {
+    "product_id": 544,
+    "name": "Sony Controller XB494",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 49.5
+  },
+  {
+    "product_id": 545,
+    "name": "Bosch Kitchen Tool FE223",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Bosch",
+    "list_price": 738.47
+  },
+  {
+    "product_id": 546,
+    "name": "Home Accessory PZ683",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 493.3
+  },
+  {
+    "product_id": 547,
+    "name": "Box Set: TZ485",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 30.34
+  },
+  {
+    "product_id": 548,
+    "name": "Razer Controller OI217",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Razer",
+    "list_price": 216.3
+  },
+  {
+    "product_id": 549,
+    "name": "Acer Tablet GD816 169GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Acer",
+    "list_price": 189.14
+  },
+  {
+    "product_id": 550,
+    "name": "Notebook EV681 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Clairefontaine",
+    "list_price": 25.5
+  },
+  {
+    "product_id": 551,
+    "name": "Bosch Cleaning SB584",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Bosch",
+    "list_price": 844.45
+  },
+  {
+    "product_id": 552,
+    "name": "School Supply KW421",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 38.83
+  },
+  {
+    "product_id": 553,
+    "name": "Book: CM450 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Glénat",
+    "list_price": 52.72
+  },
+  {
+    "product_id": 554,
+    "name": "LG TV 65\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "LG",
+    "list_price": 1020.81
+  },
+  {
+    "product_id": 555,
+    "name": "Seagate Router ZI157 Pro",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Seagate",
+    "list_price": 775.47
+  },
+  {
+    "product_id": 556,
+    "name": "Notebook YD377 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Clairefontaine",
+    "list_price": 4.46
+  },
+  {
+    "product_id": 557,
+    "name": "LG TV Box OX247",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "LG",
+    "list_price": 456.56
+  },
+  {
+    "product_id": 558,
+    "name": "Notebook FY780 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 34.03
+  },
+  {
+    "product_id": 559,
+    "name": "DVD: XA753",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Disney",
+    "list_price": 61.72
+  },
+  {
+    "product_id": 560,
+    "name": "JBL Speaker AM957 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 138.31
+  },
+  {
+    "product_id": 561,
+    "name": "Pop/Rock: RI405",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 44.06
+  },
+  {
+    "product_id": 562,
+    "name": "Belkin Smartphone TE146 176GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Belkin",
+    "list_price": 202.86
+  },
+  {
+    "product_id": 563,
+    "name": "Bose Headphones ER405 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Bose",
+    "list_price": 1040.68
+  },
+  {
+    "product_id": 564,
+    "name": "Asus Webcam RZ476",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Asus",
+    "list_price": 2386.57
+  },
+  {
+    "product_id": 565,
+    "name": "Anker Smartphone WW772 448GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Anker",
+    "list_price": 1729.29
+  },
+  {
+    "product_id": 566,
+    "name": "Razer Console YZ551",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Razer",
+    "list_price": 505.98
+  },
+  {
+    "product_id": 567,
+    "name": "Agenda FN753 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 33.41
+  },
+  {
+    "product_id": 568,
+    "name": "OnePlus Smartphone NL267 249GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "OnePlus",
+    "list_price": 448.78
+  },
+  {
+    "product_id": 569,
+    "name": "Home Accessory IR517",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 11.21
+  },
+  {
+    "product_id": 570,
+    "name": "Roman: IL885",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Gallimard",
+    "list_price": 22.51
+  },
+  {
+    "product_id": 571,
+    "name": "Philips Kitchen Tool MD547",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Philips",
+    "list_price": 686.76
+  },
+  {
+    "product_id": 572,
+    "name": "4K UHD: AX307",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Warner",
+    "list_price": 55.86
+  },
+  {
+    "product_id": 573,
+    "name": "TCL TV 55\" QLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "TCL",
+    "list_price": 2817.0
+  },
+  {
+    "product_id": 574,
+    "name": "Classical: UK106",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Universal",
+    "list_price": 38.21
+  },
+  {
+    "product_id": 575,
+    "name": "LG TV Box JQ102",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "LG",
+    "list_price": 2381.66
+  },
+  {
+    "product_id": 576,
+    "name": "Canon Camera CF939 Full Frame",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Canon",
+    "list_price": 262.92
+  },
+  {
+    "product_id": 577,
+    "name": "Sennheiser Hi-Fi System XV896",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sennheiser",
+    "list_price": 710.43
+  },
+  {
+    "product_id": 578,
+    "name": "Philips Projector XF554 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Philips",
+    "list_price": 3293.19
+  },
+  {
+    "product_id": 579,
+    "name": "Notebook WG581 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 36.1
+  },
+  {
+    "product_id": 580,
+    "name": "Box Set: UY400",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Disney",
+    "list_price": 13.01
+  },
+  {
+    "product_id": 581,
+    "name": "Sony Controller GK812",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 437.47
+  },
+  {
+    "product_id": 582,
+    "name": "Sennheiser Speaker QY486 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sennheiser",
+    "list_price": 115.4
+  },
+  {
+    "product_id": 583,
+    "name": "Sony TV Box VS165",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 128.54
+  },
+  {
+    "product_id": 584,
+    "name": "Home Accessory KC596",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Tefal",
+    "list_price": 718.93
+  },
+  {
+    "product_id": 585,
+    "name": "Dell Notebook SO125 i5/25GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Dell",
+    "list_price": 238.28
+  },
+  {
+    "product_id": 586,
+    "name": "Agenda ES232 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Oxford",
+    "list_price": 13.02
+  },
+  {
+    "product_id": 587,
+    "name": "Game WX984 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "SteelSeries",
+    "list_price": 242.69
+  },
+  {
+    "product_id": 588,
+    "name": "OnePlus Smartphone HJ294 371GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "OnePlus",
+    "list_price": 583.98
+  },
+  {
+    "product_id": 589,
+    "name": "Nikon Action Cam AL850 4K60",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Nikon",
+    "list_price": 3236.63
+  },
+  {
+    "product_id": 590,
+    "name": "Pen Oxford UV981",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Oxford",
+    "list_price": 2.24
+  },
+  {
+    "product_id": 591,
+    "name": "TCL TV Box XV973",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "TCL",
+    "list_price": 2363.88
+  },
+  {
+    "product_id": 592,
+    "name": "Samsung Fitness Tracker BB261",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Samsung",
+    "list_price": 1068.59
+  },
+  {
+    "product_id": 593,
+    "name": "Bose Turntable JU285",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Bose",
+    "list_price": 221.3
+  },
+  {
+    "product_id": 594,
+    "name": "Classical: OU716",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 12.2
+  },
+  {
+    "product_id": 595,
+    "name": "Manga: XR819 Vol.19",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Pocket",
+    "list_price": 43.77
+  },
+  {
+    "product_id": 596,
+    "name": "Manual: RV561",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Flammarion",
+    "list_price": 38.44
+  },
+  {
+    "product_id": 597,
+    "name": "Manual: UP154",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Flammarion",
+    "list_price": 6.76
+  },
+  {
+    "product_id": 598,
+    "name": "JBL Speaker GW480 Hi-Res",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 250.14
+  },
+  {
+    "product_id": 599,
+    "name": "Sony Tripod PB778",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 839.49
+  },
+  {
+    "product_id": 600,
+    "name": "Game JB825 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "SteelSeries",
+    "list_price": 708.71
+  },
+  {
+    "product_id": 601,
+    "name": "Box Set: WB808",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 62.48
+  },
+  {
+    "product_id": 602,
+    "name": "Logitech Notebook AK239 Ryzen 7/15GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Logitech",
+    "list_price": 991.6
+  },
+  {
+    "product_id": 603,
+    "name": "Classical: XJ210",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "EMI",
+    "list_price": 20.05
+  },
+  {
+    "product_id": 604,
+    "name": "Roman: DX469",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Pocket",
+    "list_price": 40.08
+  },
+  {
+    "product_id": 605,
+    "name": "Xiaomi Refurbished Phone IL298 449GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Xiaomi",
+    "list_price": 1601.66
+  },
+  {
+    "product_id": 606,
+    "name": "Book: XF619 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Pocket",
+    "list_price": 22.31
+  },
+  {
+    "product_id": 607,
+    "name": "Fujifilm Camera AZ148 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Fujifilm",
+    "list_price": 480.31
+  },
+  {
+    "product_id": 608,
+    "name": "Roman: JH756",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Pocket",
+    "list_price": 41.82
+  },
+  {
+    "product_id": 609,
+    "name": "Belkin Charger Plus",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Belkin",
+    "list_price": 1235.11
+  },
+  {
+    "product_id": 610,
+    "name": "Philips TV 32\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Philips",
+    "list_price": 2903.96
+  },
+  {
+    "product_id": 611,
+    "name": "Sony Controller TF730",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 445.35
+  },
+  {
+    "product_id": 612,
+    "name": "OnePlus Smartwatch ZY299",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "OnePlus",
+    "list_price": 881.31
+  },
+  {
+    "product_id": 613,
+    "name": "Belkin Fitness Tracker FN272",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Belkin",
+    "list_price": 804.75
+  },
+  {
+    "product_id": 614,
+    "name": "Sony Projector MV501 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Sony",
+    "list_price": 1756.15
+  },
+  {
+    "product_id": 615,
+    "name": "Samsung Laptop XJ149 i5/22GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Samsung",
+    "list_price": 1172.83
+  },
+  {
+    "product_id": 616,
+    "name": "Google Refurbished Phone YF315 423GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Google",
+    "list_price": 706.75
+  },
+  {
+    "product_id": 617,
+    "name": "School Supply WF420",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 30.33
+  },
+  {
+    "product_id": 618,
+    "name": "JBL Speaker VY208 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 451.88
+  },
+  {
+    "product_id": 619,
+    "name": "Sony Turntable GI275",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sony",
+    "list_price": 365.23
+  },
+  {
+    "product_id": 620,
+    "name": "Classical: LP936",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 16.27
+  },
+  {
+    "product_id": 621,
+    "name": "Sony Action Cam KR398 4K60",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Sony",
+    "list_price": 3556.25
+  },
+  {
+    "product_id": 622,
+    "name": "Lenovo Tablet FE645 202GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Lenovo",
+    "list_price": 53.5
+  },
+  {
+    "product_id": 623,
+    "name": "Pen Stabilo HD421",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 37.99
+  },
+  {
+    "product_id": 624,
+    "name": "Roman: CX894",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Pocket",
+    "list_price": 32.33
+  },
+  {
+    "product_id": 625,
+    "name": "Logitech SSD 1024GB",
+    "category": "Informatique",
+    "subcategory": "Stockage",
+    "brand": "Logitech",
+    "list_price": 1430.66
+  },
+  {
+    "product_id": 626,
+    "name": "Roman: ZL764",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Hachette",
+    "list_price": 33.22
+  },
+  {
+    "product_id": 627,
+    "name": "Pen Bic SA454",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Bic",
+    "list_price": 26.38
+  },
+  {
+    "product_id": 628,
+    "name": "GoPro Camera SL311 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "GoPro",
+    "list_price": 2512.28
+  },
+  {
+    "product_id": 629,
+    "name": "Philips Cleaning CX797",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Philips",
+    "list_price": 354.32
+  },
+  {
+    "product_id": 630,
+    "name": "Vinyl: NJ629",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 15.04
+  },
+  {
+    "product_id": 631,
+    "name": "BD: QQ778 Tome 16",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Albin Michel",
+    "list_price": 45.36
+  },
+  {
+    "product_id": 632,
+    "name": "Moulinex Cleaning YL804",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Moulinex",
+    "list_price": 734.17
+  },
+  {
+    "product_id": 633,
+    "name": "Yamaha Speaker ZJ398 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Yamaha",
+    "list_price": 1396.61
+  },
+  {
+    "product_id": 634,
+    "name": "Pen Clairefontaine VC875",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Clairefontaine",
+    "list_price": 13.09
+  },
+  {
+    "product_id": 635,
+    "name": "Bose Headphones MD542 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Bose",
+    "list_price": 1386.59
+  },
+  {
+    "product_id": 636,
+    "name": "School Supply CC502",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Oxford",
+    "list_price": 28.83
+  },
+  {
+    "product_id": 637,
+    "name": "OnePlus Fitness Tracker SZ885",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "OnePlus",
+    "list_price": 129.57
+  },
+  {
+    "product_id": 638,
+    "name": "Book: NM514 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Hachette",
+    "list_price": 42.93
+  },
+  {
+    "product_id": 639,
+    "name": "Panasonic Projector OH721 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Panasonic",
+    "list_price": 2785.48
+  },
+  {
+    "product_id": 640,
+    "name": "Microsoft Laptop FJ953 i5/12GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Microsoft",
+    "list_price": 515.49
+  },
+  {
+    "product_id": 641,
+    "name": "Samsung Webcam XA985",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Samsung",
+    "list_price": 2389.54
+  },
+  {
+    "product_id": 642,
+    "name": "HP Router SW126 Plus",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "HP",
+    "list_price": 880.07
+  },
+  {
+    "product_id": 643,
+    "name": "Apple Smartwatch EE910",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Apple",
+    "list_price": 1636.62
+  },
+  {
+    "product_id": 644,
+    "name": "Album: CH415",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Sony Music",
+    "list_price": 25.39
+  },
+  {
+    "product_id": 645,
+    "name": "Blu-ray: YQ401",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 79.87
+  },
+  {
+    "product_id": 646,
+    "name": "Bosch Kitchen Tool OD153",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Bosch",
+    "list_price": 182.37
+  },
+  {
+    "product_id": 647,
+    "name": "DVD: ZL739",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Universal",
+    "list_price": 29.83
+  },
+  {
+    "product_id": 648,
+    "name": "Pen Clairefontaine TG932",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Clairefontaine",
+    "list_price": 36.61
+  },
+  {
+    "product_id": 649,
+    "name": "Acer Router DK638 Standard",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Acer",
+    "list_price": 853.59
+  },
+  {
+    "product_id": 650,
+    "name": "Tefal Appliance IN716",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Tefal",
+    "list_price": 675.45
+  },
+  {
+    "product_id": 651,
+    "name": "Book: LQ130 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Albin Michel",
+    "list_price": 25.73
+  },
+  {
+    "product_id": 652,
+    "name": "Book: XE893 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Gallimard",
+    "list_price": 14.47
+  },
+  {
+    "product_id": 653,
+    "name": "OnePlus Refurbished Phone BV573 346GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "OnePlus",
+    "list_price": 527.29
+  },
+  {
+    "product_id": 654,
+    "name": "Book: FA693 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Glénat",
+    "list_price": 49.25
+  },
+  {
+    "product_id": 655,
+    "name": "Microsoft Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Microsoft",
+    "list_price": 699.46
+  },
+  {
+    "product_id": 656,
+    "name": "GoPro Tripod IQ439",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 2588.96
+  },
+  {
+    "product_id": 657,
+    "name": "Pop/Rock: AP644",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Sony Music",
+    "list_price": 21.22
+  },
+  {
+    "product_id": 658,
+    "name": "SteelSeries Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 798.02
+  },
+  {
+    "product_id": 659,
+    "name": "Home Accessory XU762",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Philips",
+    "list_price": 409.9
+  },
+  {
+    "product_id": 660,
+    "name": "Google Smartphone CH542 402GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Google",
+    "list_price": 434.02
+  },
+  {
+    "product_id": 661,
+    "name": "Dyson Cleaning LT521",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Dyson",
+    "list_price": 586.48
+  },
+  {
+    "product_id": 662,
+    "name": "JBL Amplifier GR254",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "JBL",
+    "list_price": 119.85
+  },
+  {
+    "product_id": 663,
+    "name": "DVD: TL752",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 67.91
+  },
+  {
+    "product_id": 664,
+    "name": "Philips Cleaning OH976",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Philips",
+    "list_price": 850.1
+  },
+  {
+    "product_id": 665,
+    "name": "Box Set: XO378",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Disney",
+    "list_price": 9.71
+  },
+  {
+    "product_id": 666,
+    "name": "Sony Home Cinema EW125",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Sony",
+    "list_price": 1495.13
+  },
+  {
+    "product_id": 667,
+    "name": "School Supply OR584",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Oxford",
+    "list_price": 14.15
+  },
+  {
+    "product_id": 668,
+    "name": "Book: XU690 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Gallimard",
+    "list_price": 15.39
+  },
+  {
+    "product_id": 669,
+    "name": "Book: RB669 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Hachette",
+    "list_price": 47.7
+  },
+  {
+    "product_id": 670,
+    "name": "Apple Mouse QK973",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Apple",
+    "list_price": 944.37
+  },
+  {
+    "product_id": 671,
+    "name": "Samsung Mouse AX860",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Samsung",
+    "list_price": 851.57
+  },
+  {
+    "product_id": 672,
+    "name": "Lenovo Desktop XQ988 Ryzen 5/13GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Lenovo",
+    "list_price": 1891.3
+  },
+  {
+    "product_id": 673,
+    "name": "LG Home Cinema NR943",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "LG",
+    "list_price": 1177.08
+  },
+  {
+    "product_id": 674,
+    "name": "Philips Kitchen Tool FJ566",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Philips",
+    "list_price": 147.79
+  },
+  {
+    "product_id": 675,
+    "name": "Vinyl: QQ849",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "EMI",
+    "list_price": 9.73
+  },
+  {
+    "product_id": 676,
+    "name": "Book: XX612 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Flammarion",
+    "list_price": 19.96
+  },
+  {
+    "product_id": 677,
+    "name": "Samsung TV Box UM800",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Samsung",
+    "list_price": 851.08
+  },
+  {
+    "product_id": 678,
+    "name": "Book: II457 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Hachette",
+    "list_price": 44.51
+  },
+  {
+    "product_id": 679,
+    "name": "Agenda CP282 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 18.2
+  },
+  {
+    "product_id": 680,
+    "name": "Manual: XX742",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Glénat",
+    "list_price": 56.46
+  },
+  {
+    "product_id": 681,
+    "name": "Blu-ray: YW326",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Warner",
+    "list_price": 75.36
+  },
+  {
+    "product_id": 682,
+    "name": "TCL Projector NM201 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "TCL",
+    "list_price": 2001.22
+  },
+  {
+    "product_id": 683,
+    "name": "Album: XA197",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Sony Music",
+    "list_price": 21.51
+  },
+  {
+    "product_id": 684,
+    "name": "Yamaha Speaker RS786 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Yamaha",
+    "list_price": 1387.65
+  },
+  {
+    "product_id": 685,
+    "name": "Sony Controller RI181",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 154.23
+  },
+  {
+    "product_id": 686,
+    "name": "Apple Router QP704 Pro",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Apple",
+    "list_price": 362.77
+  },
+  {
+    "product_id": 687,
+    "name": "Manga: LL473 Vol.5",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Gallimard",
+    "list_price": 58.13
+  },
+  {
+    "product_id": 688,
+    "name": "Microsoft Monitor RK378 65\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Microsoft",
+    "list_price": 1163.36
+  },
+  {
+    "product_id": 689,
+    "name": "Sony Turntable IN482",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sony",
+    "list_price": 652.45
+  },
+  {
+    "product_id": 690,
+    "name": "JBL Speaker FP997 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "JBL",
+    "list_price": 332.74
+  },
+  {
+    "product_id": 691,
+    "name": "Sony Speaker LR134 ANC",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sony",
+    "list_price": 464.73
+  },
+  {
+    "product_id": 692,
+    "name": "Roman: BP489",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Hachette",
+    "list_price": 22.16
+  },
+  {
+    "product_id": 693,
+    "name": "Pop/Rock: NK602",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "EMI",
+    "list_price": 47.04
+  },
+  {
+    "product_id": 694,
+    "name": "Anker Refurbished Phone EG437 390GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Anker",
+    "list_price": 433.12
+  },
+  {
+    "product_id": 695,
+    "name": "Panasonic Home Cinema LS964",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 563.68
+  },
+  {
+    "product_id": 696,
+    "name": "Samsung Router BH719 Standard",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Samsung",
+    "list_price": 1631.02
+  },
+  {
+    "product_id": 697,
+    "name": "Album: AB428",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Warner",
+    "list_price": 16.85
+  },
+  {
+    "product_id": 698,
+    "name": "Microsoft Controller WG708",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Microsoft",
+    "list_price": 718.99
+  },
+  {
+    "product_id": 699,
+    "name": "DVD: GG935",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 38.23
+  },
+  {
+    "product_id": 700,
+    "name": "Sony TV Box OL670",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 3370.66
+  },
+  {
+    "product_id": 701,
+    "name": "Sony TV Box UM382",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 2012.97
+  },
+  {
+    "product_id": 702,
+    "name": "Razer Gift Card 25€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Razer",
+    "list_price": 101.41
+  },
+  {
+    "product_id": 703,
+    "name": "Book: XA147 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Pocket",
+    "list_price": 58.92
+  },
+  {
+    "product_id": 704,
+    "name": "Book: OE488 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Albin Michel",
+    "list_price": 18.55
+  },
+  {
+    "product_id": 705,
+    "name": "Moulinex Appliance YU724",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Moulinex",
+    "list_price": 241.68
+  },
+  {
+    "product_id": 706,
+    "name": "Yamaha Speaker PP208 Hi-Res",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Yamaha",
+    "list_price": 538.27
+  },
+  {
+    "product_id": 707,
+    "name": "GoPro Tripod FN830",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 3204.45
+  },
+  {
+    "product_id": 708,
+    "name": "Fujifilm Lens 50mm f/1.4",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Fujifilm",
+    "list_price": 1402.77
+  },
+  {
+    "product_id": 709,
+    "name": "Blu-ray: TL519",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 59.47
+  },
+  {
+    "product_id": 710,
+    "name": "School Supply GK208",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 31.85
+  },
+  {
+    "product_id": 711,
+    "name": "SteelSeries Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 310.45
+  },
+  {
+    "product_id": 712,
+    "name": "Pen Stabilo AB564",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 10.54
+  },
+  {
+    "product_id": 713,
+    "name": "Blu-ray: QS487",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 41.87
+  },
+  {
+    "product_id": 714,
+    "name": "Microsoft Console TY135",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Microsoft",
+    "list_price": 86.71
+  },
+  {
+    "product_id": 715,
+    "name": "SteelSeries Console MJ557",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "SteelSeries",
+    "list_price": 783.75
+  },
+  {
+    "product_id": 716,
+    "name": "DVD: IO636",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 41.06
+  },
+  {
+    "product_id": 717,
+    "name": "Home Accessory CN851",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 478.34
+  },
+  {
+    "product_id": 718,
+    "name": "Bose Turntable YU535",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Bose",
+    "list_price": 662.46
+  },
+  {
+    "product_id": 719,
+    "name": "Home Accessory RF890",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Tefal",
+    "list_price": 91.84
+  },
+  {
+    "product_id": 720,
+    "name": "Logitech Tablet GA637 211GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Logitech",
+    "list_price": 254.12
+  },
+  {
+    "product_id": 721,
+    "name": "Sony Home Cinema JQ301",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Sony",
+    "list_price": 3123.87
+  },
+  {
+    "product_id": 722,
+    "name": "Sony TV Box XO116",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 1925.79
+  },
+  {
+    "product_id": 723,
+    "name": "Sony TV Box ZY747",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 1180.13
+  },
+  {
+    "product_id": 724,
+    "name": "Manga: TY172 Vol.10",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Glénat",
+    "list_price": 30.63
+  },
+  {
+    "product_id": 725,
+    "name": "Xiaomi Fitness Tracker GE859",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Xiaomi",
+    "list_price": 544.29
+  },
+  {
+    "product_id": 726,
+    "name": "Book: PB238 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Flammarion",
+    "list_price": 23.1
+  },
+  {
+    "product_id": 727,
+    "name": "Sony Hi-Fi System ZW370",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sony",
+    "list_price": 1349.32
+  },
+  {
+    "product_id": 728,
+    "name": "JBL Headphones XZ291 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "JBL",
+    "list_price": 773.57
+  },
+  {
+    "product_id": 729,
+    "name": "Box Set: MK705",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "StudioCanal",
+    "list_price": 76.29
+  },
+  {
+    "product_id": 730,
+    "name": "Box Set: PM281",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 18.15
+  },
+  {
+    "product_id": 731,
+    "name": "Razer Controller EV200",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Razer",
+    "list_price": 375.2
+  },
+  {
+    "product_id": 732,
+    "name": "Anker Refurbished Phone BN774 411GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Anker",
+    "list_price": 1135.35
+  },
+  {
+    "product_id": 733,
+    "name": "Book: AW755 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Pocket",
+    "list_price": 54.87
+  },
+  {
+    "product_id": 734,
+    "name": "Book: BB884 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Albin Michel",
+    "list_price": 10.3
+  },
+  {
+    "product_id": 735,
+    "name": "Canon Lens 24-70mm f/2.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Canon",
+    "list_price": 3619.37
+  },
+  {
+    "product_id": 736,
+    "name": "Vinyl: IL619",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Universal",
+    "list_price": 41.62
+  },
+  {
+    "product_id": 737,
+    "name": "Asus Laptop EM124 Ryzen 7/19GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Asus",
+    "list_price": 48.6
+  },
+  {
+    "product_id": 738,
+    "name": "Acer Webcam XB195",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "Acer",
+    "list_price": 2017.75
+  },
+  {
+    "product_id": 739,
+    "name": "Huawei Smartphone ED790 87GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Huawei",
+    "list_price": 809.93
+  },
+  {
+    "product_id": 740,
+    "name": "Sennheiser Headphones DX856 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sennheiser",
+    "list_price": 699.91
+  },
+  {
+    "product_id": 741,
+    "name": "Acer Desktop OV818 Ryzen 5/28GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Acer",
+    "list_price": 466.26
+  },
+  {
+    "product_id": 742,
+    "name": "Sony Turntable DT129",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sony",
+    "list_price": 1478.53
+  },
+  {
+    "product_id": 743,
+    "name": "Apple Case WA856",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Apple",
+    "list_price": 847.52
+  },
+  {
+    "product_id": 744,
+    "name": "Manual: NB801",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Gallimard",
+    "list_price": 48.47
+  },
+  {
+    "product_id": 745,
+    "name": "Home Accessory BN132",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Philips",
+    "list_price": 243.38
+  },
+  {
+    "product_id": 746,
+    "name": "Notebook RK178 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 4.19
+  },
+  {
+    "product_id": 747,
+    "name": "School Supply PK670",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Bic",
+    "list_price": 9.65
+  },
+  {
+    "product_id": 748,
+    "name": "Yamaha Turntable WR472",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 1150.26
+  },
+  {
+    "product_id": 749,
+    "name": "Lenovo Router VC424 Plus",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Lenovo",
+    "list_price": 1979.23
+  },
+  {
+    "product_id": 750,
+    "name": "Razer Controller CC530",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Razer",
+    "list_price": 647.76
+  },
+  {
+    "product_id": 751,
+    "name": "Marshall Headphones WV349 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Marshall",
+    "list_price": 217.33
+  },
+  {
+    "product_id": 752,
+    "name": "Agenda HD924 2025",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 37.17
+  },
+  {
+    "product_id": 753,
+    "name": "Sony Lens 35mm f/1.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Sony",
+    "list_price": 3732.13
+  },
+  {
+    "product_id": 754,
+    "name": "GoPro Camera KC369 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "GoPro",
+    "list_price": 814.82
+  },
+  {
+    "product_id": 755,
+    "name": "HP Keyboard ZC591",
+    "category": "Informatique",
+    "subcategory": "Périphériques",
+    "brand": "HP",
+    "list_price": 862.34
+  },
+  {
+    "product_id": 756,
+    "name": "TCL Projector KP144 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "TCL",
+    "list_price": 1612.74
+  },
+  {
+    "product_id": 757,
+    "name": "Panasonic Projector NM647 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Panasonic",
+    "list_price": 3157.53
+  },
+  {
+    "product_id": 758,
+    "name": "Dyson Cleaning NN907",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Dyson",
+    "list_price": 864.49
+  },
+  {
+    "product_id": 759,
+    "name": "Samsung Refurbished Phone KF946 321GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Samsung",
+    "list_price": 875.71
+  },
+  {
+    "product_id": 760,
+    "name": "Agenda FK703 2025",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 2.07
+  },
+  {
+    "product_id": 761,
+    "name": "SteelSeries Console JV319",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "SteelSeries",
+    "list_price": 744.07
+  },
+  {
+    "product_id": 762,
+    "name": "Pen Bic YK610",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Bic",
+    "list_price": 21.18
+  },
+  {
+    "product_id": 763,
+    "name": "GoPro Lens 35mm f/1.8",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "GoPro",
+    "list_price": 2583.71
+  },
+  {
+    "product_id": 764,
+    "name": "Sony Tripod DR264",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Sony",
+    "list_price": 2221.88
+  },
+  {
+    "product_id": 765,
+    "name": "Samsung TV 65\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 1281.45
+  },
+  {
+    "product_id": 766,
+    "name": "Panasonic TV Box PJ192",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Panasonic",
+    "list_price": 1844.18
+  },
+  {
+    "product_id": 767,
+    "name": "Lenovo Monitor PE164 75\" FHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Lenovo",
+    "list_price": 1115.91
+  },
+  {
+    "product_id": 768,
+    "name": "Manual: SW208",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Pocket",
+    "list_price": 44.08
+  },
+  {
+    "product_id": 769,
+    "name": "Sony TV Box TS970",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 2802.1
+  },
+  {
+    "product_id": 770,
+    "name": "Roman: HI358",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Flammarion",
+    "list_price": 8.3
+  },
+  {
+    "product_id": 771,
+    "name": "Philips Soundbar DG674 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Philips",
+    "list_price": 1007.59
+  },
+  {
+    "product_id": 772,
+    "name": "Bosch Kitchen Tool IS286",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Bosch",
+    "list_price": 273.99
+  },
+  {
+    "product_id": 773,
+    "name": "Jazz: ID157",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Sony Music",
+    "list_price": 35.39
+  },
+  {
+    "product_id": 774,
+    "name": "Nikon Action Cam WE999 5K",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Nikon",
+    "list_price": 2846.5
+  },
+  {
+    "product_id": 775,
+    "name": "Roman: HS649",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Pocket",
+    "list_price": 14.37
+  },
+  {
+    "product_id": 776,
+    "name": "Bose Turntable KO208",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Bose",
+    "list_price": 488.13
+  },
+  {
+    "product_id": 777,
+    "name": "4K UHD: FX764",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Warner",
+    "list_price": 47.92
+  },
+  {
+    "product_id": 778,
+    "name": "Acer Notebook DJ840 i7/13GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Acer",
+    "list_price": 2254.26
+  },
+  {
+    "product_id": 779,
+    "name": "Book: PN127 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Pocket",
+    "list_price": 8.16
+  },
+  {
+    "product_id": 780,
+    "name": "School Supply SK321",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Oxford",
+    "list_price": 11.8
+  },
+  {
+    "product_id": 781,
+    "name": "Book: ZZ695 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Albin Michel",
+    "list_price": 39.69
+  },
+  {
+    "product_id": 782,
+    "name": "Pop/Rock: TW234",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Sony Music",
+    "list_price": 47.95
+  },
+  {
+    "product_id": 783,
+    "name": "Belkin Fitness Tracker VU655",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Belkin",
+    "list_price": 621.14
+  },
+  {
+    "product_id": 784,
+    "name": "Vinyl: GK987",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 20.32
+  },
+  {
+    "product_id": 785,
+    "name": "Agenda AB158 2025",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 7.03
+  },
+  {
+    "product_id": 786,
+    "name": "JBL Turntable XA870",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "JBL",
+    "list_price": 1440.95
+  },
+  {
+    "product_id": 787,
+    "name": "OnePlus Smartphone AI574 158GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "OnePlus",
+    "list_price": 438.19
+  },
+  {
+    "product_id": 788,
+    "name": "Manual: PI258",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Pocket",
+    "list_price": 18.28
+  },
+  {
+    "product_id": 789,
+    "name": "Classical: LH806",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Universal",
+    "list_price": 48.68
+  },
+  {
+    "product_id": 790,
+    "name": "HP Tablet WP754 136GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "HP",
+    "list_price": 2444.27
+  },
+  {
+    "product_id": 791,
+    "name": "Sony TV Box ZK168",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 2414.97
+  },
+  {
+    "product_id": 792,
+    "name": "Pop/Rock: LE996",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 20.03
+  },
+  {
+    "product_id": 793,
+    "name": "Samsung Home Cinema IS838",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Samsung",
+    "list_price": 1848.27
+  },
+  {
+    "product_id": 794,
+    "name": "Sony Headphones YX843 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Sony",
+    "list_price": 756.74
+  },
+  {
+    "product_id": 795,
+    "name": "Manual: OH920",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Gallimard",
+    "list_price": 9.09
+  },
+  {
+    "product_id": 796,
+    "name": "Blu-ray: CP624",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Disney",
+    "list_price": 28.19
+  },
+  {
+    "product_id": 797,
+    "name": "Album: IA734",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "EMI",
+    "list_price": 11.68
+  },
+  {
+    "product_id": 798,
+    "name": "Pen Clairefontaine GO724",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Clairefontaine",
+    "list_price": 6.93
+  },
+  {
+    "product_id": 799,
+    "name": "4K UHD: CS741",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "StudioCanal",
+    "list_price": 75.96
+  },
+  {
+    "product_id": 800,
+    "name": "Nikon Tripod OK864",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Nikon",
+    "list_price": 3328.82
+  },
+  {
+    "product_id": 801,
+    "name": "Box Set: IU272",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "StudioCanal",
+    "list_price": 48.45
+  },
+  {
+    "product_id": 802,
+    "name": "Vinyl: MK501",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 21.97
+  },
+  {
+    "product_id": 803,
+    "name": "Pop/Rock: GN283",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Warner",
+    "list_price": 22.75
+  },
+  {
+    "product_id": 804,
+    "name": "Nintendo Console GJ270",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Nintendo",
+    "list_price": 25.46
+  },
+  {
+    "product_id": 805,
+    "name": "Blu-ray: TR355",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Disney",
+    "list_price": 61.88
+  },
+  {
+    "product_id": 806,
+    "name": "HP Desktop MP698 i5/30GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "HP",
+    "list_price": 1992.05
+  },
+  {
+    "product_id": 807,
+    "name": "Samsung TV 55\" OLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Samsung",
+    "list_price": 2885.5
+  },
+  {
+    "product_id": 808,
+    "name": "Marshall Turntable GP319",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 701.45
+  },
+  {
+    "product_id": 809,
+    "name": "Nikon Camera RD864 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Nikon",
+    "list_price": 1077.3
+  },
+  {
+    "product_id": 810,
+    "name": "4K UHD: MG447",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Universal",
+    "list_price": 56.98
+  },
+  {
+    "product_id": 811,
+    "name": "Nikon Camera MX259 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Nikon",
+    "list_price": 1676.08
+  },
+  {
+    "product_id": 812,
+    "name": "Acer Laptop SY469 Ryzen 7/27GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Acer",
+    "list_price": 1909.11
+  },
+  {
+    "product_id": 813,
+    "name": "Game GY791 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "SteelSeries",
+    "list_price": 493.61
+  },
+  {
+    "product_id": 814,
+    "name": "Home Accessory FY361",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 291.16
+  },
+  {
+    "product_id": 815,
+    "name": "Apple Fitness Tracker JK520",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Apple",
+    "list_price": 482.29
+  },
+  {
+    "product_id": 816,
+    "name": "Belkin Refurbished Phone TB834 346GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Belkin",
+    "list_price": 338.86
+  },
+  {
+    "product_id": 817,
+    "name": "Agenda CE733 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 38.06
+  },
+  {
+    "product_id": 818,
+    "name": "Razer Controller VC116",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Razer",
+    "list_price": 657.4
+  },
+  {
+    "product_id": 819,
+    "name": "Dyson Kitchen Tool JL297",
+    "category": "Maison & Cuisine",
+    "subcategory": "Cuisine",
+    "brand": "Dyson",
+    "list_price": 891.65
+  },
+  {
+    "product_id": 820,
+    "name": "Philips Projector MD757 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Philips",
+    "list_price": 841.12
+  },
+  {
+    "product_id": 821,
+    "name": "Classical: RY417",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 42.14
+  },
+  {
+    "product_id": 822,
+    "name": "Lenovo Monitor FL550 65\" QHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Lenovo",
+    "list_price": 1778.87
+  },
+  {
+    "product_id": 823,
+    "name": "Razer Controller KD547",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Razer",
+    "list_price": 87.79
+  },
+  {
+    "product_id": 824,
+    "name": "Moulinex Cleaning DT510",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Moulinex",
+    "list_price": 137.0
+  },
+  {
+    "product_id": 825,
+    "name": "Microsoft Tablet NC475 202GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Microsoft",
+    "list_price": 1352.39
+  },
+  {
+    "product_id": 826,
+    "name": "Acer Monitor WE344 65\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Acer",
+    "list_price": 1271.76
+  },
+  {
+    "product_id": 827,
+    "name": "Sony Camera LB527 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Sony",
+    "list_price": 381.86
+  },
+  {
+    "product_id": 828,
+    "name": "Jazz: NI771",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "EMI",
+    "list_price": 38.52
+  },
+  {
+    "product_id": 829,
+    "name": "Anker Smartwatch TH829",
+    "category": "Téléphonie",
+    "subcategory": "Objets connectés",
+    "brand": "Anker",
+    "list_price": 1516.55
+  },
+  {
+    "product_id": 830,
+    "name": "Tefal Appliance LD276",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Tefal",
+    "list_price": 818.25
+  },
+  {
+    "product_id": 831,
+    "name": "Fujifilm Camera AX375 24MP",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Fujifilm",
+    "list_price": 410.69
+  },
+  {
+    "product_id": 832,
+    "name": "Notebook BK702 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Oxford",
+    "list_price": 21.63
+  },
+  {
+    "product_id": 833,
+    "name": "Panasonic Projector QH611 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "Panasonic",
+    "list_price": 2619.47
+  },
+  {
+    "product_id": 834,
+    "name": "Notebook LT939 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 16.74
+  },
+  {
+    "product_id": 835,
+    "name": "Panasonic Soundbar KP404 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Panasonic",
+    "list_price": 2859.24
+  },
+  {
+    "product_id": 836,
+    "name": "Pen Stabilo XF958",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 34.11
+  },
+  {
+    "product_id": 837,
+    "name": "Roman: YP473",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Albin Michel",
+    "list_price": 56.79
+  },
+  {
+    "product_id": 838,
+    "name": "HP Laptop YU944 Ryzen 7/16GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "HP",
+    "list_price": 1046.34
+  },
+  {
+    "product_id": 839,
+    "name": "Microsoft Tablet UT557 140GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Microsoft",
+    "list_price": 1119.88
+  },
+  {
+    "product_id": 840,
+    "name": "Sony TV Box BT724",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 1438.42
+  },
+  {
+    "product_id": 841,
+    "name": "Pen Stabilo PC961",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 2.44
+  },
+  {
+    "product_id": 842,
+    "name": "Box Set: NG808",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "StudioCanal",
+    "list_price": 79.99
+  },
+  {
+    "product_id": 843,
+    "name": "Sony Speaker DA346 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sony",
+    "list_price": 451.62
+  },
+  {
+    "product_id": 844,
+    "name": "Classical: CY755",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Universal",
+    "list_price": 16.54
+  },
+  {
+    "product_id": 845,
+    "name": "Fujifilm SD Card Standard",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 179.0
+  },
+  {
+    "product_id": 846,
+    "name": "Lenovo Monitor XC969 55\" FHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Lenovo",
+    "list_price": 1103.48
+  },
+  {
+    "product_id": 847,
+    "name": "Pen Oxford SZ603",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Oxford",
+    "list_price": 23.54
+  },
+  {
+    "product_id": 848,
+    "name": "Vinyl: MZ485",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "EMI",
+    "list_price": 19.73
+  },
+  {
+    "product_id": 849,
+    "name": "Home Accessory QH237",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 668.54
+  },
+  {
+    "product_id": 850,
+    "name": "Nintendo Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Nintendo",
+    "list_price": 653.21
+  },
+  {
+    "product_id": 851,
+    "name": "Box Set: XR567",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 75.6
+  },
+  {
+    "product_id": 852,
+    "name": "Box Set: PC481",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 51.1
+  },
+  {
+    "product_id": 853,
+    "name": "Canon Lens 50mm f/1.4",
+    "category": "Photo & Caméra",
+    "subcategory": "Objectifs",
+    "brand": "Canon",
+    "list_price": 187.6
+  },
+  {
+    "product_id": 854,
+    "name": "Moulinex Cleaning SG272",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Moulinex",
+    "list_price": 306.4
+  },
+  {
+    "product_id": 855,
+    "name": "SteelSeries Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "SteelSeries",
+    "list_price": 706.99
+  },
+  {
+    "product_id": 856,
+    "name": "Box Set: EV677",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Universal",
+    "list_price": 50.99
+  },
+  {
+    "product_id": 857,
+    "name": "Bose Speaker MA868 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Bose",
+    "list_price": 264.26
+  },
+  {
+    "product_id": 858,
+    "name": "Sennheiser Speaker DZ841 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sennheiser",
+    "list_price": 1342.26
+  },
+  {
+    "product_id": 859,
+    "name": "Bosch Appliance SJ194",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 455.47
+  },
+  {
+    "product_id": 860,
+    "name": "Bose Amplifier KE178",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Bose",
+    "list_price": 744.14
+  },
+  {
+    "product_id": 861,
+    "name": "Anker Smartphone AO624 187GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Anker",
+    "list_price": 1768.92
+  },
+  {
+    "product_id": 862,
+    "name": "Sony Hi-Fi System NR296",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sony",
+    "list_price": 1083.21
+  },
+  {
+    "product_id": 863,
+    "name": "Agenda BS838 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Stabilo",
+    "list_price": 2.55
+  },
+  {
+    "product_id": 864,
+    "name": "Box Set: MF169",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Disney",
+    "list_price": 37.29
+  },
+  {
+    "product_id": 865,
+    "name": "Moulinex Appliance PI856",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Moulinex",
+    "list_price": 286.28
+  },
+  {
+    "product_id": 866,
+    "name": "HP Tablet EB182 135GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "HP",
+    "list_price": 1980.62
+  },
+  {
+    "product_id": 867,
+    "name": "Manga: WN868 Vol.16",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Glénat",
+    "list_price": 14.55
+  },
+  {
+    "product_id": 868,
+    "name": "Samsung Desktop JM521 i5/14GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Samsung",
+    "list_price": 594.24
+  },
+  {
+    "product_id": 869,
+    "name": "Sennheiser Turntable CO754",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sennheiser",
+    "list_price": 432.87
+  },
+  {
+    "product_id": 870,
+    "name": "Blu-ray: OG819",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "Warner",
+    "list_price": 38.91
+  },
+  {
+    "product_id": 871,
+    "name": "Apple Smartphone RY584 342GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Apple",
+    "list_price": 1041.04
+  },
+  {
+    "product_id": 872,
+    "name": "TCL TV 65\" QLED",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "TCL",
+    "list_price": 3477.01
+  },
+  {
+    "product_id": 873,
+    "name": "School Supply KK669",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 9.85
+  },
+  {
+    "product_id": 874,
+    "name": "Book: XF252 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Gallimard",
+    "list_price": 8.17
+  },
+  {
+    "product_id": 875,
+    "name": "Agenda MN666 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Bic",
+    "list_price": 7.27
+  },
+  {
+    "product_id": 876,
+    "name": "Home Accessory OH610",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 467.44
+  },
+  {
+    "product_id": 877,
+    "name": "School Supply BM437",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 30.68
+  },
+  {
+    "product_id": 878,
+    "name": "DVD: XQ880",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "Warner",
+    "list_price": 34.13
+  },
+  {
+    "product_id": 879,
+    "name": "Anker Smartphone ZZ398 371GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Anker",
+    "list_price": 574.74
+  },
+  {
+    "product_id": 880,
+    "name": "Microsoft Controller QJ139",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Microsoft",
+    "list_price": 219.68
+  },
+  {
+    "product_id": 881,
+    "name": "Box Set: PK226",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "StudioCanal",
+    "list_price": 11.03
+  },
+  {
+    "product_id": 882,
+    "name": "Canon Action Cam JA260 Stabilized",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Canon",
+    "list_price": 1520.85
+  },
+  {
+    "product_id": 883,
+    "name": "BD: HL556 Tome 5",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Flammarion",
+    "list_price": 49.98
+  },
+  {
+    "product_id": 884,
+    "name": "Pop/Rock: GW816",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Sony Music",
+    "list_price": 49.43
+  },
+  {
+    "product_id": 885,
+    "name": "Tefal Cleaning WF223",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 794.92
+  },
+  {
+    "product_id": 886,
+    "name": "DVD: FS457",
+    "category": "Films & Séries",
+    "subcategory": "DVD",
+    "brand": "StudioCanal",
+    "list_price": 17.34
+  },
+  {
+    "product_id": 887,
+    "name": "Game RH277 Edition",
+    "category": "Jeux vidéo",
+    "subcategory": "Jeux",
+    "brand": "Sony",
+    "list_price": 107.51
+  },
+  {
+    "product_id": 888,
+    "name": "Sony TV Box EG830",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Sony",
+    "list_price": 1044.46
+  },
+  {
+    "product_id": 889,
+    "name": "Blu-ray: CB128",
+    "category": "Films & Séries",
+    "subcategory": "Blu-ray",
+    "brand": "StudioCanal",
+    "list_price": 73.34
+  },
+  {
+    "product_id": 890,
+    "name": "Sony Hi-Fi System FB901",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sony",
+    "list_price": 998.3
+  },
+  {
+    "product_id": 891,
+    "name": "Classical: US412",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Warner",
+    "list_price": 32.96
+  },
+  {
+    "product_id": 892,
+    "name": "Notebook DE307 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Clairefontaine",
+    "list_price": 25.97
+  },
+  {
+    "product_id": 893,
+    "name": "Vinyl: GW709",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Warner",
+    "list_price": 28.28
+  },
+  {
+    "product_id": 894,
+    "name": "Razer Gift Card 100€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Razer",
+    "list_price": 587.67
+  },
+  {
+    "product_id": 895,
+    "name": "Xiaomi Case WJ416",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Xiaomi",
+    "list_price": 1166.08
+  },
+  {
+    "product_id": 896,
+    "name": "Samsung Soundbar LP668 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Samsung",
+    "list_price": 763.7
+  },
+  {
+    "product_id": 897,
+    "name": "Marshall Turntable PJ994",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 1039.0
+  },
+  {
+    "product_id": 898,
+    "name": "Manga: VZ178 Vol.17",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Albin Michel",
+    "list_price": 51.97
+  },
+  {
+    "product_id": 899,
+    "name": "TCL Soundbar II155 Plus",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "TCL",
+    "list_price": 3443.38
+  },
+  {
+    "product_id": 900,
+    "name": "Fujifilm Camera GW720 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Fujifilm",
+    "list_price": 2283.4
+  },
+  {
+    "product_id": 901,
+    "name": "Yamaha Amplifier EX944",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Yamaha",
+    "list_price": 443.15
+  },
+  {
+    "product_id": 902,
+    "name": "Dyson Appliance FI605",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Dyson",
+    "list_price": 851.31
+  },
+  {
+    "product_id": 903,
+    "name": "Pop/Rock: EE906",
+    "category": "Musique",
+    "subcategory": "Pop/Rock",
+    "brand": "Universal",
+    "list_price": 23.15
+  },
+  {
+    "product_id": 904,
+    "name": "School Supply OB846",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 28.35
+  },
+  {
+    "product_id": 905,
+    "name": "Microsoft Controller UN110",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Microsoft",
+    "list_price": 714.19
+  },
+  {
+    "product_id": 906,
+    "name": "School Supply VT576",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Stabilo",
+    "list_price": 22.76
+  },
+  {
+    "product_id": 907,
+    "name": "GoPro Tripod BE647",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "GoPro",
+    "list_price": 1680.91
+  },
+  {
+    "product_id": 908,
+    "name": "JBL Turntable CD196",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "JBL",
+    "list_price": 543.81
+  },
+  {
+    "product_id": 909,
+    "name": "Samsung Refurbished Phone LN311 105GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Samsung",
+    "list_price": 1361.42
+  },
+  {
+    "product_id": 910,
+    "name": "Book: VG713 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Glénat",
+    "list_price": 22.98
+  },
+  {
+    "product_id": 911,
+    "name": "4K UHD: AR750",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Warner",
+    "list_price": 57.6
+  },
+  {
+    "product_id": 912,
+    "name": "Acer Router VG437 Pro",
+    "category": "Informatique",
+    "subcategory": "Réseau",
+    "brand": "Acer",
+    "list_price": 167.8
+  },
+  {
+    "product_id": 913,
+    "name": "4K UHD: UO794",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "Warner",
+    "list_price": 18.34
+  },
+  {
+    "product_id": 914,
+    "name": "SteelSeries Controller FW436",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "SteelSeries",
+    "list_price": 468.82
+  },
+  {
+    "product_id": 915,
+    "name": "Pen Stabilo OV170",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 5.62
+  },
+  {
+    "product_id": 916,
+    "name": "Nintendo Gift Card 50€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Nintendo",
+    "list_price": 617.23
+  },
+  {
+    "product_id": 917,
+    "name": "Album: GM704",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "EMI",
+    "list_price": 43.97
+  },
+  {
+    "product_id": 918,
+    "name": "Razer Controller JL483",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Razer",
+    "list_price": 64.57
+  },
+  {
+    "product_id": 919,
+    "name": "Jazz: YR194",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Sony Music",
+    "list_price": 24.86
+  },
+  {
+    "product_id": 920,
+    "name": "Agenda VM428 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Oxford",
+    "list_price": 36.39
+  },
+  {
+    "product_id": 921,
+    "name": "Philips Cleaning UZ454",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Philips",
+    "list_price": 376.27
+  },
+  {
+    "product_id": 922,
+    "name": "Album: BH953",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Universal",
+    "list_price": 13.36
+  },
+  {
+    "product_id": 923,
+    "name": "BD: FS719 Tome 18",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Flammarion",
+    "list_price": 48.67
+  },
+  {
+    "product_id": 924,
+    "name": "Canon Action Cam UG661 Stabilized",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Canon",
+    "list_price": 377.03
+  },
+  {
+    "product_id": 925,
+    "name": "Sony Gift Card 50€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Sony",
+    "list_price": 232.84
+  },
+  {
+    "product_id": 926,
+    "name": "Home Accessory FX373",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 144.98
+  },
+  {
+    "product_id": 927,
+    "name": "Microsoft Notebook DT943 i5/18GB",
+    "category": "Informatique",
+    "subcategory": "PC portables",
+    "brand": "Microsoft",
+    "list_price": 2180.21
+  },
+  {
+    "product_id": 928,
+    "name": "Bosch Appliance IC645",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Bosch",
+    "list_price": 360.81
+  },
+  {
+    "product_id": 929,
+    "name": "Bose Headphones YZ780 Hi-Res",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Bose",
+    "list_price": 624.71
+  },
+  {
+    "product_id": 930,
+    "name": "Sony Camera VU268 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Sony",
+    "list_price": 2189.3
+  },
+  {
+    "product_id": 931,
+    "name": "Samsung Soundbar LJ547 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Samsung",
+    "list_price": 3478.01
+  },
+  {
+    "product_id": 932,
+    "name": "Asus Tablet KI496 236GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Asus",
+    "list_price": 1256.33
+  },
+  {
+    "product_id": 933,
+    "name": "Book: YK375 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Glénat",
+    "list_price": 24.24
+  },
+  {
+    "product_id": 934,
+    "name": "Sony Action Cam WI937 4K60",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Sony",
+    "list_price": 158.14
+  },
+  {
+    "product_id": 935,
+    "name": "TCL Soundbar PG693 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "TCL",
+    "list_price": 1183.57
+  },
+  {
+    "product_id": 936,
+    "name": "Yamaha Turntable KF133",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Yamaha",
+    "list_price": 21.78
+  },
+  {
+    "product_id": 937,
+    "name": "Asus Monitor KO761 65\" 4K",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Asus",
+    "list_price": 879.29
+  },
+  {
+    "product_id": 938,
+    "name": "Home Accessory FD133",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Tefal",
+    "list_price": 885.11
+  },
+  {
+    "product_id": 939,
+    "name": "Asus Desktop RJ148 Ryzen 7/30GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Asus",
+    "list_price": 2058.84
+  },
+  {
+    "product_id": 940,
+    "name": "Classical: QP646",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 19.21
+  },
+  {
+    "product_id": 941,
+    "name": "Classical: RD390",
+    "category": "Musique",
+    "subcategory": "Classique",
+    "brand": "Sony Music",
+    "list_price": 17.73
+  },
+  {
+    "product_id": 942,
+    "name": "Sennheiser Hi-Fi System YV985",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Sennheiser",
+    "list_price": 971.13
+  },
+  {
+    "product_id": 943,
+    "name": "Notebook UO775 A5",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Stabilo",
+    "list_price": 32.73
+  },
+  {
+    "product_id": 944,
+    "name": "Sony Soundbar YN880 Pro",
+    "category": "TV & Vidéo",
+    "subcategory": "Home cinéma",
+    "brand": "Sony",
+    "list_price": 2439.1
+  },
+  {
+    "product_id": 945,
+    "name": "Tefal Cleaning CU172",
+    "category": "Maison & Cuisine",
+    "subcategory": "Entretien",
+    "brand": "Tefal",
+    "list_price": 122.78
+  },
+  {
+    "product_id": 946,
+    "name": "Pen Stabilo PC841",
+    "category": "Papeterie",
+    "subcategory": "Stylos",
+    "brand": "Stabilo",
+    "list_price": 13.5
+  },
+  {
+    "product_id": 947,
+    "name": "Box Set: UM178",
+    "category": "Films & Séries",
+    "subcategory": "Coffrets",
+    "brand": "Warner",
+    "list_price": 52.27
+  },
+  {
+    "product_id": 948,
+    "name": "Jazz: UZ621",
+    "category": "Musique",
+    "subcategory": "Jazz",
+    "brand": "Warner",
+    "list_price": 46.79
+  },
+  {
+    "product_id": 949,
+    "name": "Logitech Monitor XR871 65\" FHD",
+    "category": "Informatique",
+    "subcategory": "Moniteurs",
+    "brand": "Logitech",
+    "list_price": 2444.09
+  },
+  {
+    "product_id": 950,
+    "name": "Home Accessory WM264",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Philips",
+    "list_price": 516.3
+  },
+  {
+    "product_id": 951,
+    "name": "Notebook MS411 A4",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Oxford",
+    "list_price": 21.74
+  },
+  {
+    "product_id": 952,
+    "name": "Book: RT734 (Tech)",
+    "category": "Livres",
+    "subcategory": "Science & Tech",
+    "brand": "Glénat",
+    "list_price": 34.9
+  },
+  {
+    "product_id": 953,
+    "name": "Album: GQ267",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Sony Music",
+    "list_price": 19.59
+  },
+  {
+    "product_id": 954,
+    "name": "Vinyl: PZ503",
+    "category": "Musique",
+    "subcategory": "Vinyles",
+    "brand": "Sony Music",
+    "list_price": 42.36
+  },
+  {
+    "product_id": 955,
+    "name": "Belkin Smartphone VM443 165GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Belkin",
+    "list_price": 1353.07
+  },
+  {
+    "product_id": 956,
+    "name": "LG Projector CP165 Standard",
+    "category": "TV & Vidéo",
+    "subcategory": "Vidéoprojecteurs",
+    "brand": "LG",
+    "list_price": 3300.11
+  },
+  {
+    "product_id": 957,
+    "name": "Sony Action Cam MF293 4K60",
+    "category": "Photo & Caméra",
+    "subcategory": "Caméras",
+    "brand": "Sony",
+    "list_price": 2660.74
+  },
+  {
+    "product_id": 958,
+    "name": "Asus Desktop BI635 Ryzen 7/17GB",
+    "category": "Informatique",
+    "subcategory": "PC fixes",
+    "brand": "Asus",
+    "list_price": 875.54
+  },
+  {
+    "product_id": 959,
+    "name": "Xiaomi Refurbished Phone FV722 206GB",
+    "category": "Téléphonie",
+    "subcategory": "Téléphones reconditionnés",
+    "brand": "Xiaomi",
+    "list_price": 1032.54
+  },
+  {
+    "product_id": 960,
+    "name": "Album: PG264",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "EMI",
+    "list_price": 12.39
+  },
+  {
+    "product_id": 961,
+    "name": "Nintendo Gift Card 50€",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Nintendo",
+    "list_price": 312.43
+  },
+  {
+    "product_id": 962,
+    "name": "Nintendo Console ND966",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Nintendo",
+    "list_price": 39.55
+  },
+  {
+    "product_id": 963,
+    "name": "Yamaha Amplifier HL200",
+    "category": "Audio",
+    "subcategory": "Hi-Fi",
+    "brand": "Yamaha",
+    "list_price": 566.42
+  },
+  {
+    "product_id": 964,
+    "name": "Fujifilm SD Card Plus",
+    "category": "Photo & Caméra",
+    "subcategory": "Accessoires photo",
+    "brand": "Fujifilm",
+    "list_price": 3351.07
+  },
+  {
+    "product_id": 965,
+    "name": "Huawei Smartphone EI146 348GB",
+    "category": "Téléphonie",
+    "subcategory": "Smartphones",
+    "brand": "Huawei",
+    "list_price": 985.02
+  },
+  {
+    "product_id": 966,
+    "name": "Roman: HR861",
+    "category": "Livres",
+    "subcategory": "Romans",
+    "brand": "Glénat",
+    "list_price": 6.19
+  },
+  {
+    "product_id": 967,
+    "name": "Notebook VI897 96p",
+    "category": "Papeterie",
+    "subcategory": "Cahiers",
+    "brand": "Bic",
+    "list_price": 23.17
+  },
+  {
+    "product_id": 968,
+    "name": "Belkin PowerBank Pro",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Belkin",
+    "list_price": 37.05
+  },
+  {
+    "product_id": 969,
+    "name": "Canon Camera XE713 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Canon",
+    "list_price": 2846.19
+  },
+  {
+    "product_id": 970,
+    "name": "Manual: AG889",
+    "category": "Livres",
+    "subcategory": "Scolaire",
+    "brand": "Gallimard",
+    "list_price": 54.56
+  },
+  {
+    "product_id": 971,
+    "name": "Bose Headphones WL684 ANC",
+    "category": "Audio",
+    "subcategory": "Casques",
+    "brand": "Bose",
+    "list_price": 1178.12
+  },
+  {
+    "product_id": 972,
+    "name": "Razer Console SL803",
+    "category": "Jeux vidéo",
+    "subcategory": "Consoles",
+    "brand": "Razer",
+    "list_price": 33.41
+  },
+  {
+    "product_id": 973,
+    "name": "Book: AH662 (Art)",
+    "category": "Livres",
+    "subcategory": "Arts & Culture",
+    "brand": "Flammarion",
+    "list_price": 58.12
+  },
+  {
+    "product_id": 974,
+    "name": "Manga: OU626 Vol.19",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Glénat",
+    "list_price": 52.8
+  },
+  {
+    "product_id": 975,
+    "name": "Panasonic TV 75\" 4K",
+    "category": "TV & Vidéo",
+    "subcategory": "Téléviseurs",
+    "brand": "Panasonic",
+    "list_price": 2309.4
+  },
+  {
+    "product_id": 976,
+    "name": "Sony Turntable KX877",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Sony",
+    "list_price": 930.95
+  },
+  {
+    "product_id": 977,
+    "name": "Anker Charger Standard",
+    "category": "Téléphonie",
+    "subcategory": "Accessoires",
+    "brand": "Anker",
+    "list_price": 1170.08
+  },
+  {
+    "product_id": 978,
+    "name": "Marshall Turntable LX530",
+    "category": "Audio",
+    "subcategory": "Platines vinyles",
+    "brand": "Marshall",
+    "list_price": 1116.83
+  },
+  {
+    "product_id": 979,
+    "name": "Samsung TV Box ZL626",
+    "category": "TV & Vidéo",
+    "subcategory": "Streaming & Box TV",
+    "brand": "Samsung",
+    "list_price": 1780.82
+  },
+  {
+    "product_id": 980,
+    "name": "Microsoft Tablet DG621 253GB",
+    "category": "Informatique",
+    "subcategory": "Tablettes",
+    "brand": "Microsoft",
+    "list_price": 2387.13
+  },
+  {
+    "product_id": 981,
+    "name": "Sony Controller AJ988",
+    "category": "Jeux vidéo",
+    "subcategory": "Manettes",
+    "brand": "Sony",
+    "list_price": 42.27
+  },
+  {
+    "product_id": 982,
+    "name": "Sennheiser Speaker WA247 BT 5.2",
+    "category": "Audio",
+    "subcategory": "Enceintes Bluetooth",
+    "brand": "Sennheiser",
+    "list_price": 379.66
+  },
+  {
+    "product_id": 983,
+    "name": "Agenda LO872 2024",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Stabilo",
+    "list_price": 2.95
+  },
+  {
+    "product_id": 984,
+    "name": "Album: YU420",
+    "category": "Musique",
+    "subcategory": "CD",
+    "brand": "Sony Music",
+    "list_price": 7.14
+  },
+  {
+    "product_id": 985,
+    "name": "Agenda FK447 2023",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Clairefontaine",
+    "list_price": 39.01
+  },
+  {
+    "product_id": 986,
+    "name": "Home Accessory LU672",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Dyson",
+    "list_price": 318.92
+  },
+  {
+    "product_id": 987,
+    "name": "Manga: BN598 Vol.11",
+    "category": "Livres",
+    "subcategory": "BD & Manga",
+    "brand": "Glénat",
+    "list_price": 26.98
+  },
+  {
+    "product_id": 988,
+    "name": "Moulinex Appliance GN769",
+    "category": "Maison & Cuisine",
+    "subcategory": "Petit électroménager",
+    "brand": "Moulinex",
+    "list_price": 205.54
+  },
+  {
+    "product_id": 989,
+    "name": "Nikon Camera KS962 APS-C",
+    "category": "Photo & Caméra",
+    "subcategory": "Appareils photo",
+    "brand": "Nikon",
+    "list_price": 1135.35
+  },
+  {
+    "product_id": 990,
+    "name": "School Supply SJ583",
+    "category": "Papeterie",
+    "subcategory": "Fournitures scolaires",
+    "brand": "Clairefontaine",
+    "list_price": 36.7
+  },
+  {
+    "product_id": 991,
+    "name": "Bic OO380",
+    "category": "Papeterie",
+    "subcategory": "Agendas",
+    "brand": "Bic",
+    "list_price": -305.89
+  },
+  {
+    "product_id": 992,
+    "name": "Tefal NH446",
+    "category": "Maison & Cuisine",
+    "subcategory": "Accessoires maison",
+    "brand": "Tefal",
+    "list_price": -255.08
+  },
+  {
+    "product_id": 993,
+    "name": "",
+    "category": "Jeux vidéo",
+    "subcategory": "Cartes prépayées",
+    "brand": "Nintendo",
+    "list_price": 27.13
+  },
+  {
+    "product_id": 994,
+    "name": "Yamaha QE164",
+    "category": "Audio",
+    "subcategory": "Smartphones",
+    "brand": "Yamaha",
+    "list_price": 970.18
+  },
+  {
+    "product_id": 995,
+    "name": "Logitech XA645",
+    "category": null,
+    "subcategory": null,
+    "brand": null,
+    "list_price": 1980.75
+  },
+  {
+    "product_id": 996,
+    "name": "Apple CV452",
+    "category": null,
+    "subcategory": null,
+    "brand": null,
+    "list_price": 878.37
+  },
+  {
+    "product_id": 997,
+    "name": "Canon DJ141",
+    "category": "",
+    "subcategory": "Objectifs",
+    "brand": "Canon",
+    "list_price": 2133.0
+  },
+  {
+    "product_id": 998,
+    "name": "Nintendo QC929",
+    "category": "Jeux vidéo",
+    "subcategory": "Stylos",
+    "brand": "Nintendo",
+    "list_price": 39.35
+  },
+  {
+    "product_id": 999,
+    "name": "",
+    "category": "Films & Séries",
+    "subcategory": "4K UHD",
+    "brand": "StudioCanal",
+    "list_price": 68.03
+  },
+  {
+    "product_id": 1000,
+    "name": "Huawei KS667",
+    "category": "Téléphonie",
+    "subcategory": "Tablettes",
+    "brand": "Huawei",
+    "list_price": 1450.77
+  }
+]
