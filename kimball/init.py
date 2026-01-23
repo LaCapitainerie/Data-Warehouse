@@ -34,6 +34,8 @@ def products_to_stg(products: pd.DataFrame, cursor: psycopg2.extensions.cursor, 
     cursor.executemany(insert_query, products.replace(np.nan, None).values.tolist())
     conn.commit()
 
+    print(f"stg_products data inserted successfully!")
+
 def returns_to_stg(returns: pd.DataFrame, cursor: psycopg2.extensions.cursor, conn: psycopg2.extensions.connection):
     insert_query = f"""
     INSERT INTO stg_returns ({", ".join(returns.columns.to_list())})

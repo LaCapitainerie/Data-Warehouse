@@ -261,3 +261,33 @@ CREATE TRIGGER trigger_insert_dim_products
 AFTER INSERT ON stg_products
 FOR EACH ROW
 EXECUTE FUNCTION insert_into_dim_products();
+
+
+-- Fonction trigger pour insérer automatiquement dans dim_returns
+CREATE OR REPLACE FUNCTION insert_into_dim_returns()
+RETURNS TRIGGER AS $$
+BEGIN
+	-- Vérifier la condition sur return_id
+	IF NEW.return_id IS NOT NULL AND NEW.return_id > 0
+	AND CAST(SUBSTRING(NEW.return_ts FROM 1 FOR 2) as INTEGER) BETWEEN 19 AND 20
+	THEN
+		INSERT INTO dim_returns (return_id, return_year, return_month, return_day, reason, amount)
+		VALUES (
+			NEW.return_id,
+			EXTRACT(year FROM CAST(NEW.return_ts as Date)),
+			EXTRACT(month FROM CAST(NEW.return_ts as Date)),
+			EXTRACT(day FROM CAST(NEW.return_ts as Date)),
+			COALESCE(NEW.reason, 'Unknown'),
+			NEW.amount
+		)
+		ON CONFLICT (return_id) DO NOTHING;
+	END IF;
+	RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Création du trigger qui s'exécute après INSERT sur stg_returns
+CREATE TRIGGER trigger_insert_dim_returns
+AFTER INSERT ON stg_returns
+FOR EACH ROW
+EXECUTE FUNCTION insert_into_dim_returns();
