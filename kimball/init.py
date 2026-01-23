@@ -57,16 +57,15 @@ def main():
     )
     cursor = conn.cursor()
 
+    print(f"Connected to the database successfully!")
+    cursor.execute("TRUNCATE TABLE stg_customers, stg_products, stg_returns, stg_orders, stg_order_items;")
+    conn.commit()
+    print(f"Tables truncated successfully!")
 
 
     # -- Customers --
     customers = pd.read_csv(os.path.dirname(__file__) + './../data/customers_1000.csv')
     customers_to_stg(customers, cursor, conn)
-    # ----------------
-
-    # -- Order Items --
-    order_items = pd.read_csv(os.path.dirname(__file__) + './../data/order_list_15000.csv')
-    order_items_to_stg(order_items, cursor, conn)
     # ----------------
 
     # -- Products --
@@ -135,6 +134,14 @@ def main():
     conn.commit()
     print(f"stg_orders data inserted successfully!")
     #----------------
+
+
+
+
+    # -- Order Items --
+    order_items = pd.read_csv(os.path.dirname(__file__) + './../data/order_list_15000.csv')
+    order_items_to_stg(order_items, cursor, conn)
+    # ----------------
 
 if __name__ == "__main__":
     main()
