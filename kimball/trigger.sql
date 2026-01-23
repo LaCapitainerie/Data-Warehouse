@@ -38,18 +38,18 @@ BEGIN
 	-- Vérifier la condition sur currency_rate
 	IF NEW.id IS NOT NULL
         AND NEW.id > 0
-        AND CAST(SUBSTRING(birthdate FROM 1 FOR 2) as INTEGER) BETWEEN 19 AND 20
-        AND CAST(SUBSTRING(registration_date FROM 1 FOR 2) as INTEGER) BETWEEN 19 AND 20
+        AND CAST(SUBSTRING(NEW.birthdate FROM 1 FOR 2) as INTEGER) BETWEEN 19 AND 20
+        AND CAST(SUBSTRING(NEW.registration_date FROM 1 FOR 2) as INTEGER) BETWEEN 19 AND 20
     THEN
 		INSERT INTO dim_customers (customer_id, gender, birth_year, birth_month, birth_day, city, country, registration_date_year, registration_date_month, registration_date_day)
 		VALUES (
 			NEW.id,
-            NEW.gender OR 'U',
+            NEW.gender,
             EXTRACT(year FROM CAST(NEW.birthdate as Date)),
             EXTRACT(month FROM CAST(NEW.birthdate as Date)),
             EXTRACT(day FROM CAST(NEW.birthdate as Date)),
-            NEW.city OR 'Unknown',
-            NEW.country OR 'Unknown',
+            NEW.city,
+            NEW.country,
             EXTRACT(year FROM CAST(NEW.registration_date as Date)),
             EXTRACT(month FROM CAST(NEW.registration_date as Date)),
             EXTRACT(day FROM CAST(NEW.registration_date as Date))
