@@ -57,25 +57,25 @@ def main():
 
 
 
-    # # -- Customers --
-    # customers = pd.read_csv(os.path.dirname(__file__) + './../data/customers_1000.csv')
-    # customers_to_stg(customers, cursor, conn)
-    # # ----------------
+    # -- Customers --
+    customers = pd.read_csv(os.path.dirname(__file__) + './../data/customers_1000.csv')
+    customers_to_stg(customers, cursor, conn)
+    # ----------------
 
-    # # -- Order Items --
-    # order_items = pd.read_csv(os.path.dirname(__file__) + './../data/order_list_15000.csv')
-    # order_items_to_stg(order_items, cursor, conn)
-    # # ----------------
+    # -- Order Items --
+    order_items = pd.read_csv(os.path.dirname(__file__) + './../data/order_list_15000.csv')
+    order_items_to_stg(order_items, cursor, conn)
+    # ----------------
 
-    # # -- Products --
-    # products = pd.read_json(os.path.dirname(__file__) + './../data/products_1000_fnac.json')
-    # products_to_stg(products, cursor, conn)
-    # # ----------------
+    # -- Products --
+    products = pd.read_json(os.path.dirname(__file__) + './../data/products_1000_fnac.json')
+    products_to_stg(products, cursor, conn)
+    # ----------------
 
-    # # -- Returns --
-    # returns = pd.read_csv(os.path.dirname(__file__) + './../data/returns_100.csv')
-    # returns_to_stg(returns, cursor, conn)
-    # # ----------------
+    # -- Returns --
+    returns = pd.read_csv(os.path.dirname(__file__) + './../data/returns_100.csv')
+    returns_to_stg(returns, cursor, conn)
+    # ----------------
 
 
 
@@ -85,7 +85,7 @@ def main():
 
 
     # -- Orders --
-    orders = pd.read_csv(os.path.dirname(__file__) + './../data/orders_10000.csv').iloc[:5]
+    orders = pd.read_csv(os.path.dirname(__file__) + './../data/orders_10000.csv')
 
     DEFAULT_CURRENCY = "EUR"
 
@@ -124,17 +124,15 @@ def main():
 
     orders['currency_rate'] = orders.apply(lambda row: get_currency_rate(row["order_ts"], row["currency"]), axis=1)
 
-    print(orders.head())
-
-    # insert_query = f"""
-    # INSERT INTO stg_orders ({", ".join(orders.columns.to_list())})
-    # VALUES ({', '.join(['%s'] * len(orders.columns))})
-    # ON CONFLICT DO NOTHING;
-    # """
-    # cursor.executemany(insert_query, orders.replace(np.nan, None).values.tolist())
-    # conn.commit()
-    # print(f"stg_orders data inserted successfully!")
-    # ----------------
+    insert_query = f"""
+    INSERT INTO stg_orders ({", ".join(orders.columns.to_list())})
+    VALUES ({', '.join(['%s'] * len(orders.columns))})
+    ON CONFLICT DO NOTHING;
+    """
+    cursor.executemany(insert_query, orders.replace(np.nan, None).values.tolist())
+    conn.commit()
+    print(f"stg_orders data inserted successfully!")
+    #----------------
 
 if __name__ == "__main__":
     main()
