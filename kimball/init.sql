@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS "fact_sales" (
-	"order_info" INTEGER NOT NULL,
+	"order_id" INTEGER NOT NULL,
 	"customer_id" INTEGER NOT NULL,
 	"product_id" INTEGER NOT NULL,
 	"return_id" INTEGER,
@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS "fact_sales" (
 	"price" DOUBLE PRECISION NOT NULL,
 	"discount" DOUBLE PRECISION DEFAULT 0,
 	"final_price" DOUBLE PRECISION NOT NULL,
-	PRIMARY KEY("order_info", "customer_id", "product_id")
+	PRIMARY KEY("order_id", "customer_id", "product_id")
 );
 
 
@@ -141,7 +141,7 @@ ALTER TABLE "fact_sales"
 ADD FOREIGN KEY("product_id") REFERENCES "dim_products"("product_id")
 ON UPDATE NO ACTION ON DELETE NO ACTION;
 ALTER TABLE "fact_sales"
-ADD FOREIGN KEY("order_info") REFERENCES "dim_orders"("order_id")
+ADD FOREIGN KEY("order_id") REFERENCES "dim_orders"("order_id")
 ON UPDATE NO ACTION ON DELETE NO ACTION;
 ALTER TABLE "fact_sales"
 ADD FOREIGN KEY("customer_id") REFERENCES "dim_customers"("customer_id")
@@ -304,7 +304,7 @@ BEGIN
 	AND (SELECT COUNT(dim_p.product_id) FROM dim_products as dim_p WHERE dim_p.product_id = NEW.product_id) > 0
 	AND (SELECT COUNT(dim_c.customer_id) FROM stg_orders as stg_o JOIN dim_customers as dim_c USING(customer_id) WHERE order_id = NEW.order_id) > 0
 	THEN
-		INSERT INTO fact_sales (order_info, customer_id, product_id, return_id, qty, price, discount, final_price)
+		INSERT INTO fact_sales (order_id, customer_id, product_id, return_id, qty, price, discount, final_price)
 		SELECT 
 			NEW.order_id,
 			customer_id,
@@ -318,7 +318,7 @@ BEGIN
 		LEFT JOIN stg_returns as stg_r USING(order_id)
 		JOIN stg_customers as stg_c ON stg_o.customer_id = stg_c.id
 		WHERE NEW.order_id = stg_o.order_id
-		ON CONFLICT (order_info, customer_id, product_id) DO NOTHING;
+		ON CONFLICT (order_id, customer_id, product_id) DO NOTHING;
 	END IF;
 	RETURN NEW;
 END;
